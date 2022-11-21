@@ -3086,7 +3086,7 @@
 
   (footprint "Package_DIP:DIP-8_W7.62mm" (layer "F.Cu")
     (tedit 5A02E8C5) (tstamp 517fe8b5-abe1-47f3-bd04-31a108d66d3b)
-    (at 189.2 75.2)
+    (at 225.2 85.2)
     (descr "8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (property "Sheetfile" "Ibanez_FL-9.kicad_sch")
@@ -3800,7 +3800,7 @@
 
   (footprint "Package_DIP:DIP-8_W7.62mm" (layer "F.Cu")
     (tedit 5A02E8C5) (tstamp 6b08f18d-ebc4-485c-b201-b0a3da017cc7)
-    (at 225 85)
+    (at 189.2 75.2)
     (descr "8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (property "Sheetfile" "Ibanez_FL-9.kicad_sch")
