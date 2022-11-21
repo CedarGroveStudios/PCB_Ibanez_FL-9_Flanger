@@ -334,7 +334,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Motor_Tester_DRV8830_Wing.kicad_pro",
+    "filename": "Ibanez_FL-9.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -366,9 +366,7 @@
         "microvia_diameter": 0.6858,
         "microvia_drill": 0.3302,
         "name": "Logic_Power",
-        "nets": [
-          "+3V3"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2032,
@@ -387,11 +385,6 @@
         "microvia_drill": 0.3302,
         "name": "Power",
         "nets": [
-          "/C_PWR_IN",
-          "/M_OUT_1",
-          "/M_OUT_2",
-          "/M_PWR_IN",
-          "/PWR_IN",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
