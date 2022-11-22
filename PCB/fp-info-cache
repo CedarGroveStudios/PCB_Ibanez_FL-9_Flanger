@@ -1,757 +1,1653 @@
-177165160008969
-Diode_THT
-D_5KPW_P7.62mm_Vertical_AnodeUp
-Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KPW series Axial Vertical pin pitch 7.62mm  length 9mm diameter 8mm
-0
-2
-2
-Diode_THT
-D_5KPW_P7.62mm_Vertical_KathodeUp
-Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KPW series Axial Vertical pin pitch 7.62mm  length 9mm diameter 8mm
-0
-2
-2
-Diode_THT
-D_5KPW_P12.70mm_Horizontal
-Diode, 5KPW series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KPW series Axial Horizontal pin pitch 12.7mm  length 9mm diameter 8mm
-0
-2
-2
-Diode_THT
-D_5KP_P7.62mm_Vertical_AnodeUp
-Diode, 5KP series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KP series Axial Vertical pin pitch 7.62mm  length 7.62mm diameter 9.53mm
-0
-2
-2
-Diode_THT
-D_5KP_P7.62mm_Vertical_KathodeUp
-Diode, 5KP series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KP series Axial Vertical pin pitch 7.62mm  length 7.62mm diameter 9.53mm
-0
-2
-2
-Diode_THT
-D_5KP_P10.16mm_Horizontal
-Diode, 5KP series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KP series Axial Horizontal pin pitch 10.16mm  length 7.62mm diameter 9.53mm
-0
-2
-2
-Diode_THT
-D_5KP_P12.70mm_Horizontal
-Diode, 5KP series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5KP series Axial Horizontal pin pitch 12.7mm  length 7.62mm diameter 9.53mm
-0
-2
-2
-Diode_THT
-D_5W_P5.08mm_Vertical_AnodeUp
-Diode, 5W series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm
-0
-2
-2
-Diode_THT
-D_5W_P5.08mm_Vertical_KathodeUp
-Diode, 5W series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm
-0
-2
-2
-Diode_THT
-D_5W_P10.16mm_Horizontal
-Diode, 5W series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Horizontal pin pitch 10.16mm  length 8.9mm diameter 3.7mm
-0
-2
-2
-Diode_THT
-D_5W_P12.70mm_Horizontal
-Diode, 5W series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
-Diode 5W series Axial Horizontal pin pitch 12.7mm  length 8.9mm diameter 3.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P2.54mm_Vertical_AnodeUp
-Diode, A-405 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P2.54mm_Vertical_KathodeUp
-Diode, A-405 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P5.08mm_Vertical_AnodeUp
-Diode, A-405 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P5.08mm_Vertical_KathodeUp
-Diode, A-405 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P7.62mm_Horizontal
-Diode, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P10.16mm_Horizontal
-Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_A-405_P12.70mm_Horizontal
-Diode, A-405 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
-Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-15_P2.54mm_Vertical_AnodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 2.54mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P2.54mm_Vertical_KathodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 2.54mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P3.81mm_Vertical_AnodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 3.81mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P3.81mm_Vertical_KathodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 3.81mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P5.08mm_Vertical_AnodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 5.08mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P5.08mm_Vertical_KathodeUp
-Diode, DO-15 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Vertical pin pitch 5.08mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P10.16mm_Horizontal
-Diode, DO-15 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Horizontal pin pitch 10.16mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P12.70mm_Horizontal
-Diode, DO-15 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Horizontal pin pitch 12.7mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-15_P15.24mm_Horizontal
-Diode, DO-15 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
-Diode DO-15 series Axial Horizontal pin pitch 15.24mm  length 7.6mm diameter 3.6mm
-0
-2
-2
-Diode_THT
-D_DO-27_P5.08mm_Vertical_AnodeUp
-Diode, DO-27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
-Diode DO-27 series Axial Vertical pin pitch 5.08mm  length 9.52mm diameter 5.33mm
-0
-2
-2
-Diode_THT
-D_DO-27_P5.08mm_Vertical_KathodeUp
-Diode, DO-27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
-Diode DO-27 series Axial Vertical pin pitch 5.08mm  length 9.52mm diameter 5.33mm
-0
-2
-2
-Diode_THT
-D_DO-27_P12.70mm_Horizontal
-Diode, DO-27 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
-Diode DO-27 series Axial Horizontal pin pitch 12.7mm  length 9.52mm diameter 5.33mm
-0
-2
-2
-Diode_THT
-D_DO-27_P15.24mm_Horizontal
-Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
-Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp
-Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp
-Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp
-Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Vertical pin pitch 5.08mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp
-Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Vertical pin pitch 5.08mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P7.62mm_Horizontal
-Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Horizontal pin pitch 7.62mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P10.16mm_Horizontal
-Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Horizontal pin pitch 10.16mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-34_SOD68_P12.70mm_Horizontal
-Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
-Diode DO-34_SOD68 series Axial Horizontal pin pitch 12.7mm  length 3.04mm diameter 1.6mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P3.81mm_Vertical_AnodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp
-Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P7.62mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P10.16mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-35_SOD27_P12.70mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 12.7mm  length 4mm diameter 2mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=5.2*2.7mm^2, , https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 3.81mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P3.81mm_Vertical_KathodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=5.2*2.7mm^2, , https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 3.81mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp
-Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P7.62mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P10.16mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-41_SOD81_P12.70mm_Horizontal
-Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
-Diode DO-41_SOD81 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P3.81mm_Vertical_AnodeUp
-Diode, DO-201AD series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Vertical pin pitch 3.81mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P3.81mm_Vertical_KathodeUp
-Diode, DO-201AD series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Vertical pin pitch 3.81mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P5.08mm_Vertical_AnodeUp
-Diode, DO-201AD series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Vertical pin pitch 5.08mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P5.08mm_Vertical_KathodeUp
-Diode, DO-201AD series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Vertical pin pitch 5.08mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P12.70mm_Horizontal
-Diode, DO-201AD series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Horizontal pin pitch 12.7mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AD_P15.24mm_Horizontal
-Diode, DO-201AD series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
-Diode DO-201AD series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter 5.2mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P3.81mm_Vertical_AnodeUp
-Diode, DO-201AE series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Vertical pin pitch 3.81mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P3.81mm_Vertical_KathodeUp
-Diode, DO-201AE series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Vertical pin pitch 3.81mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P5.08mm_Vertical_AnodeUp
-Diode, DO-201AE series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P5.08mm_Vertical_KathodeUp
-Diode, DO-201AE series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P12.70mm_Horizontal
-Diode, DO-201AE series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Horizontal pin pitch 12.7mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201AE_P15.24mm_Horizontal
-Diode, DO-201AE series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
-Diode DO-201AE series Axial Horizontal pin pitch 15.24mm  length 9mm diameter 5.3mm
-0
-2
-2
-Diode_THT
-D_DO-201_P3.81mm_Vertical_AnodeUp
-Diode, DO-201 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Vertical pin pitch 3.81mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P3.81mm_Vertical_KathodeUp
-Diode, DO-201 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Vertical pin pitch 3.81mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P5.08mm_Vertical_AnodeUp
-Diode, DO-201 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Vertical pin pitch 5.08mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P5.08mm_Vertical_KathodeUp
-Diode, DO-201 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Vertical pin pitch 5.08mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P12.70mm_Horizontal
-Diode, DO-201 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Horizontal pin pitch 12.7mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-201_P15.24mm_Horizontal
-Diode, DO-201 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
-Diode DO-201 series Axial Horizontal pin pitch 15.24mm  length 9.53mm diameter 5.21mm
-0
-2
-2
-Diode_THT
-D_DO-247_Horizontal_TabDown
-Diode, DO-247 series, Horizontal, TabDown, P 10.9mm
-diode rectifier
-0
-2
-2
-Diode_THT
-D_DO-247_Horizontal_TabUp
-Diode, DO-247 series, Horizontal, TabUp, P 10.9mm
-diode rectifier
-0
-2
-2
-Diode_THT
-D_DO-247_Vertical
-Diode, DO-247 series, Vertical, P 10.9mm
-diode rectifier
-0
-2
-2
-Diode_THT
-D_P600_R-6_P7.62mm_Vertical_AnodeUp
-Diode, P600_R-6 series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
-Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm
-0
-2
-2
-Diode_THT
-D_P600_R-6_P7.62mm_Vertical_KathodeUp
-Diode, P600_R-6 series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
-Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm
-0
-2
-2
-Diode_THT
-D_P600_R-6_P12.70mm_Horizontal
-Diode, P600_R-6 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
-Diode P600_R-6 series Axial Horizontal pin pitch 12.7mm  length 9.1mm diameter 9.1mm
-0
-2
-2
-Diode_THT
-D_P600_R-6_P20.00mm_Horizontal
-Diode, P600_R-6 series, Axial, Horizontal, pin pitch=20mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
-Diode P600_R-6 series Axial Horizontal pin pitch 20mm  length 9.1mm diameter 9.1mm
-0
-2
-2
-Diode_THT
-D_T-1_P2.54mm_Vertical_AnodeUp
-Diode, T-1 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Vertical pin pitch 2.54mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-D_T-1_P2.54mm_Vertical_KathodeUp
-Diode, T-1 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Vertical pin pitch 2.54mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-D_T-1_P5.08mm_Horizontal
-Diode, T-1 series, Axial, Horizontal, pin pitch=5.08mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-D_T-1_P10.16mm_Horizontal
-Diode, T-1 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Horizontal pin pitch 10.16mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-D_T-1_P12.70mm_Horizontal
-Diode, T-1 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
-Diode T-1 series Axial Horizontal pin pitch 12.7mm  length 3.2mm diameter 2.6mm
-0
-2
-2
-Diode_THT
-Diode_Bridge_15.1x15.1x6.3mm_P10.9mm
-Single phase bridge rectifier case 15.1x15.1mm, pitch 10.9mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf
-Diode Bridge PB10xxS
+387138682472707
+Package_DIP
+DIP-4_W7.62mm
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-Diode_THT
-Diode_Bridge_15.2x15.2x6.3mm_P10.9mm
-Single phase bridge rectifier case 15.2x15.2mm, pitch 10.9mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc600.pdf
-Diode Bridge KBPC6xx
+Package_DIP
+DIP-4_W7.62mm_LongPads
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
 0
 4
 4
-Diode_THT
-Diode_Bridge_15.7x15.7x6.3mm_P10.8mm
-Single phase bridge rectifier case 15.7x15.7
-Diode Bridge
+Package_DIP
+DIP-4_W7.62mm_SMDSocket_SmallPads
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
 0
 4
 4
-Diode_THT
-Diode_Bridge_16.7x16.7x6.3mm_P10.8mm
-Single phase bridge rectifier case 16.7x16.7
-Diode Bridge
+Package_DIP
+DIP-4_W7.62mm_Socket
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
 0
 4
 4
-Diode_THT
-Diode_Bridge_19.0x3.5x10.0mm_P5.0mm
-Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
-Vishay GBU rectifier diode bridge
+Package_DIP
+DIP-4_W7.62mm_Socket_LongPads
+4-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
 0
 4
 4
-Diode_THT
-Diode_Bridge_19.0x19.0x6.8mm_P12.7mm
-Single phase bridge rectifier case 19x19mm, pitch 12.7mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf
-Diode Bridge PB10xx
+Package_DIP
+DIP-4_W8.89mm_SMDSocket_LongPads
+4-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
 0
 4
 4
-Diode_THT
-Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm
-Single phase bridge rectifier case 28.6x28.6mm, pitch 18.0mm & 11.6mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc1500fw.pdf
-Diode Bridge KBPCxxxxWP
+Package_DIP
+DIP-4_W10.16mm
+4-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
 0
 4
 4
-Diode_THT
-Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm
-Diotec 32x5.6x17mm rectifier package, 7.5mm/10mm pitch, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700.pdf
-Diotec rectifier diode bridge
+Package_DIP
+DIP-4_W10.16mm_LongPads
+4-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
 0
 4
 4
-Diode_THT
-Diode_Bridge_Comchip_SCVB-L
-Three phase, Bridge, Rectifier, https://www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf
-diode module
+Package_DIP
+DIP-5-6_W7.62mm
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 0
 5
 5
-Diode_THT
-Diode_Bridge_DIP-4_W5.08mm_P2.54mm
-4-lead dip package for diode bridges, row spacing 5.08mm, pin-spacing 2.54mm, see http://www.vishay.com/docs/88898/b2m.pdf
-DIL DIP PDIP 5.08mm 2.54
-0
-4
-4
-Diode_THT
-Diode_Bridge_DIP-4_W7.62mm_P5.08mm
-4-lead dip package for diode bridges, row spacing 7.62 mm (300 mils), see http://cdn-reichelt.de/documents/datenblatt/A400/HDBL101G_20SERIES-TSC.pdf
-DIL DIP PDIP 5.08mm 7.62mm 300mil
-0
-4
-4
-Diode_THT
-Diode_Bridge_IXYS_GUFP
-Three phase, Bridge, Rectifier
-diode module
+Package_DIP
+DIP-5-6_W7.62mm_LongPads
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
 0
 5
 5
-Diode_THT
-Diode_Bridge_Round_D8.9mm
-4-lead round diode bridge package, diameter 8.9mm, pin pitch 5.08mm, see http://cdn-reichelt.de/documents/datenblatt/A400/W005M-W10M_SEP.PDF
-diode bridge 8.9mm 8.85mm WOB pitch 5.08mm
+Package_DIP
+DIP-5-6_W7.62mm_SMDSocket_SmallPads
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+5
+5
+Package_DIP
+DIP-5-6_W7.62mm_Socket
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+5
+5
+Package_DIP
+DIP-5-6_W7.62mm_Socket_LongPads
+5-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+5
+5
+Package_DIP
+DIP-5-6_W8.89mm_SMDSocket_LongPads
+5-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+5
+5
+Package_DIP
+DIP-5-6_W10.16mm
+5-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+5
+5
+Package_DIP
+DIP-5-6_W10.16mm_LongPads
+5-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+5
+5
+Package_DIP
+DIP-6_W7.62mm
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+6
+6
+Package_DIP
+DIP-6_W7.62mm_LongPads
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+6
+6
+Package_DIP
+DIP-6_W7.62mm_SMDSocket_SmallPads
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+6
+6
+Package_DIP
+DIP-6_W7.62mm_Socket
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+6
+6
+Package_DIP
+DIP-6_W7.62mm_Socket_LongPads
+6-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+6
+6
+Package_DIP
+DIP-6_W8.89mm_SMDSocket_LongPads
+6-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+6
+6
+Package_DIP
+DIP-6_W10.16mm
+6-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+6
+6
+Package_DIP
+DIP-6_W10.16mm_LongPads
+6-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+6
+6
+Package_DIP
+DIP-8-16_W7.62mm
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_DIP
+DIP-8-16_W7.62mm_Socket
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+8
+8
+Package_DIP
+DIP-8-16_W7.62mm_Socket_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+8
+8
+Package_DIP
+DIP-8-N6_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), missing pin 6
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+Package_DIP
+DIP-8-N7_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), missing pin 7
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+Package_DIP
+DIP-8_W7.62mm
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_DIP
+DIP-8_W7.62mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+8
+8
+Package_DIP
+DIP-8_W7.62mm_SMDSocket_SmallPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+8
+8
+Package_DIP
+DIP-8_W7.62mm_Socket
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+8
+8
+Package_DIP
+DIP-8_W7.62mm_Socket_LongPads
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+8
+8
+Package_DIP
+DIP-8_W8.89mm_SMDSocket_LongPads
+8-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+8
+8
+Package_DIP
+DIP-8_W10.16mm
+8-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+8
+8
+Package_DIP
+DIP-8_W10.16mm_LongPads
+8-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+8
+8
+Package_DIP
+DIP-10_W7.62mm
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+10
+10
+Package_DIP
+DIP-10_W7.62mm_LongPads
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+10
+10
+Package_DIP
+DIP-10_W7.62mm_SMDSocket_SmallPads
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+10
+10
+Package_DIP
+DIP-10_W7.62mm_Socket
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+10
+10
+Package_DIP
+DIP-10_W7.62mm_Socket_LongPads
+10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+10
+10
+Package_DIP
+DIP-10_W8.89mm_SMDSocket_LongPads
+10-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+10
+10
+Package_DIP
+DIP-10_W10.16mm
+10-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+10
+10
+Package_DIP
+DIP-10_W10.16mm_LongPads
+10-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+10
+10
+Package_DIP
+DIP-12_W7.62mm
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+12
+12
+Package_DIP
+DIP-12_W7.62mm_LongPads
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+12
+12
+Package_DIP
+DIP-12_W7.62mm_SMDSocket_SmallPads
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+12
+12
+Package_DIP
+DIP-12_W7.62mm_Socket
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+12
+12
+Package_DIP
+DIP-12_W7.62mm_Socket_LongPads
+12-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+12
+12
+Package_DIP
+DIP-12_W8.89mm_SMDSocket_LongPads
+12-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+12
+12
+Package_DIP
+DIP-12_W10.16mm
+12-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+12
+12
+Package_DIP
+DIP-12_W10.16mm_LongPads
+12-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+12
+12
+Package_DIP
+DIP-14_W7.62mm
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+Package_DIP
+DIP-14_W7.62mm_LongPads
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+14
+14
+Package_DIP
+DIP-14_W7.62mm_SMDSocket_SmallPads
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+14
+14
+Package_DIP
+DIP-14_W7.62mm_Socket
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+14
+14
+Package_DIP
+DIP-14_W7.62mm_Socket_LongPads
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+14
+14
+Package_DIP
+DIP-14_W8.89mm_SMDSocket_LongPads
+14-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+14
+14
+Package_DIP
+DIP-14_W10.16mm
+14-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+14
+14
+Package_DIP
+DIP-14_W10.16mm_LongPads
+14-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+14
+14
+Package_DIP
+DIP-16_W7.62mm
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+Package_DIP
+DIP-16_W7.62mm_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+16
+16
+Package_DIP
+DIP-16_W7.62mm_SMDSocket_SmallPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+16
+16
+Package_DIP
+DIP-16_W7.62mm_Socket
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+16
+16
+Package_DIP
+DIP-16_W7.62mm_Socket_LongPads
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+16
+16
+Package_DIP
+DIP-16_W8.89mm_SMDSocket_LongPads
+16-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+16
+16
+Package_DIP
+DIP-16_W10.16mm
+16-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+16
+16
+Package_DIP
+DIP-16_W10.16mm_LongPads
+16-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+16
+16
+Package_DIP
+DIP-18_W7.62mm
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+18
+18
+Package_DIP
+DIP-18_W7.62mm_LongPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+18
+18
+Package_DIP
+DIP-18_W7.62mm_SMDSocket_SmallPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+18
+18
+Package_DIP
+DIP-18_W7.62mm_Socket
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+18
+18
+Package_DIP
+DIP-18_W7.62mm_Socket_LongPads
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+18
+18
+Package_DIP
+DIP-18_W8.89mm_SMDSocket_LongPads
+18-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+18
+18
+Package_DIP
+DIP-20_W7.62mm
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+20
+20
+Package_DIP
+DIP-20_W7.62mm_LongPads
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+20
+20
+Package_DIP
+DIP-20_W7.62mm_SMDSocket_SmallPads
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+20
+20
+Package_DIP
+DIP-20_W7.62mm_Socket
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+20
+20
+Package_DIP
+DIP-20_W7.62mm_Socket_LongPads
+20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+20
+20
+Package_DIP
+DIP-20_W8.89mm_SMDSocket_LongPads
+20-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+20
+20
+Package_DIP
+DIP-22_W7.62mm
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+22
+22
+Package_DIP
+DIP-22_W7.62mm_LongPads
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W7.62mm_SMDSocket_SmallPads
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+22
+22
+Package_DIP
+DIP-22_W7.62mm_Socket
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+22
+22
+Package_DIP
+DIP-22_W7.62mm_Socket_LongPads
+22-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W8.89mm_SMDSocket_LongPads
+22-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm_LongPads
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm_SMDSocket_SmallPads
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil SMDSocket SmallPads
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm_Socket
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket
+0
+22
+22
+Package_DIP
+DIP-22_W10.16mm_Socket_LongPads
+22-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket LongPads
+0
+22
+22
+Package_DIP
+DIP-22_W11.43mm_SMDSocket_LongPads
+22-lead though-hole mounted DIP package, row spacing 11.43 mm (450 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 11.43mm 450mil SMDSocket LongPads
+0
+22
+22
+Package_DIP
+DIP-24_W7.62mm
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+24
+24
+Package_DIP
+DIP-24_W7.62mm_LongPads
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W7.62mm_SMDSocket_SmallPads
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+24
+24
+Package_DIP
+DIP-24_W7.62mm_Socket
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+24
+24
+Package_DIP
+DIP-24_W7.62mm_Socket_LongPads
+24-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W8.89mm_SMDSocket_LongPads
+24-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm_LongPads
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm_SMDSocket_SmallPads
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil SMDSocket SmallPads
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm_Socket
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket
+0
+24
+24
+Package_DIP
+DIP-24_W10.16mm_Socket_LongPads
+24-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 10.16mm 400mil Socket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W11.43mm_SMDSocket_LongPads
+24-lead though-hole mounted DIP package, row spacing 11.43 mm (450 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 11.43mm 450mil SMDSocket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm_LongPads
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm_SMDSocket_SmallPads
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm_Socket
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+24
+24
+Package_DIP
+DIP-24_W15.24mm_Socket_LongPads
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+24
+24
+Package_DIP
+DIP-24_W16.51mm_SMDSocket_LongPads
+24-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+24
+24
+Package_DIP
+DIP-28_W7.62mm
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+28
+28
+Package_DIP
+DIP-28_W7.62mm_LongPads
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W7.62mm_SMDSocket_SmallPads
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil SMDSocket SmallPads
+0
+28
+28
+Package_DIP
+DIP-28_W7.62mm_Socket
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+28
+28
+Package_DIP
+DIP-28_W7.62mm_Socket_LongPads
+28-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W8.89mm_SMDSocket_LongPads
+28-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm_LongPads
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm_SMDSocket_SmallPads
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm_Socket
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+28
+28
+Package_DIP
+DIP-28_W15.24mm_Socket_LongPads
+28-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+28
+28
+Package_DIP
+DIP-28_W16.51mm_SMDSocket_LongPads
+28-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+28
+28
+Package_DIP
+DIP-32_W7.62mm
+32-lead dip package, row spacing 7.62 mm (300 mils)
+DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm_LongPads
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm_SMDSocket_SmallPads
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm_Socket
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+32
+32
+Package_DIP
+DIP-32_W15.24mm_Socket_LongPads
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+32
+32
+Package_DIP
+DIP-32_W16.51mm_SMDSocket_LongPads
+32-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+32
+32
+Package_DIP
+DIP-40_W15.24mm
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+40
+40
+Package_DIP
+DIP-40_W15.24mm_LongPads
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W15.24mm_SMDSocket_SmallPads
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+40
+40
+Package_DIP
+DIP-40_W15.24mm_Socket
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+40
+40
+Package_DIP
+DIP-40_W15.24mm_Socket_LongPads
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W16.51mm_SMDSocket_LongPads
+40-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils)
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm_LongPads
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), LongPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm_SMDSocket_SmallPads
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil SMDSocket SmallPads
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm_Socket
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket
+0
+40
+40
+Package_DIP
+DIP-40_W25.4mm_Socket_LongPads
+40-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket LongPads
+0
+40
+40
+Package_DIP
+DIP-40_W26.67mm_SMDSocket_LongPads
+40-lead though-hole mounted DIP package, row spacing 26.67 mm (1050 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 26.669999999999998mm 1050mil SMDSocket LongPads
+0
+40
+40
+Package_DIP
+DIP-42_W15.24mm
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+42
+42
+Package_DIP
+DIP-42_W15.24mm_LongPads
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+42
+42
+Package_DIP
+DIP-42_W15.24mm_SMDSocket_SmallPads
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+42
+42
+Package_DIP
+DIP-42_W15.24mm_Socket
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+42
+42
+Package_DIP
+DIP-42_W15.24mm_Socket_LongPads
+42-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+42
+42
+Package_DIP
+DIP-42_W16.51mm_SMDSocket_LongPads
+42-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+42
+42
+Package_DIP
+DIP-48_W15.24mm
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+48
+48
+Package_DIP
+DIP-48_W15.24mm_LongPads
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+48
+48
+Package_DIP
+DIP-48_W15.24mm_SMDSocket_SmallPads
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+48
+48
+Package_DIP
+DIP-48_W15.24mm_Socket
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+48
+48
+Package_DIP
+DIP-48_W15.24mm_Socket_LongPads
+48-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+48
+48
+Package_DIP
+DIP-48_W16.51mm_SMDSocket_LongPads
+48-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+48
+48
+Package_DIP
+DIP-64_W15.24mm
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+64
+64
+Package_DIP
+DIP-64_W15.24mm_LongPads
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W15.24mm_SMDSocket_SmallPads
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil SMDSocket SmallPads
+0
+64
+64
+Package_DIP
+DIP-64_W15.24mm_Socket
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+64
+64
+Package_DIP
+DIP-64_W15.24mm_Socket_LongPads
+64-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W16.51mm_SMDSocket_LongPads
+64-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils)
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm_LongPads
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), LongPads
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm_SMDSocket_SmallPads
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil SMDSocket SmallPads
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm_Socket
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), Socket
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil Socket
+0
+64
+64
+Package_DIP
+DIP-64_W22.86mm_Socket_LongPads
+64-lead though-hole mounted DIP package, row spacing 22.86 mm (900 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 22.86mm 900mil Socket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W24.13mm_SMDSocket_LongPads
+64-lead though-hole mounted DIP package, row spacing 24.13 mm (950 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 24.13mm 950mil SMDSocket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils)
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm_LongPads
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), LongPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm_SMDSocket_SmallPads
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), SMDSocket, SmallPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil SMDSocket SmallPads
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm_Socket
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket
+0
+64
+64
+Package_DIP
+DIP-64_W25.4mm_Socket_LongPads
+64-lead though-hole mounted DIP package, row spacing 25.4 mm (1000 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 25.4mm 1000mil Socket LongPads
+0
+64
+64
+Package_DIP
+DIP-64_W26.67mm_SMDSocket_LongPads
+64-lead though-hole mounted DIP package, row spacing 26.67 mm (1050 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 26.669999999999998mm 1050mil SMDSocket LongPads
+0
+64
+64
+Package_DIP
+Fairchild_LSOP-8
+8-Lead, 300\" Wide, Surface Mount Package (https://www.fairchildsemi.com/package-drawings/ML/MLSOP08A.pdf)
+LSOP 2.54mm 300mil
+0
+8
+8
+Package_DIP
+PowerIntegrations_PDIP-8B
+Power Integrations variant of 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://www.power.com/sites/default/files/product-docs/lnk520.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+7
+7
+Package_DIP
+PowerIntegrations_PDIP-8C
+Power Integrations variant of 8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-iii_family_datasheet.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+7
+7
+Package_DIP
+PowerIntegrations_SDIP-10C
+PowerIntegrations variant of 10-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads, see https://www.power.com/sites/default/files/product-docs/tophx_family_datasheet.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+9
+9
+Package_DIP
+PowerIntegrations_SMD-8
+PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils), see https://www.power.com/sites/default/files/product-docs/lnk520.pdf
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_DIP
+PowerIntegrations_SMD-8B
+PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils), see https://www.power.com/sites/default/files/product-docs/lnk520.pdf
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+Package_DIP
+PowerIntegrations_SMD-8C
+PowerIntegrations variant of 8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils), see https://ac-dc.power.com/sites/default/files/product-docs/tinyswitch-iii_family_datasheet.pdf
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+Package_DIP
+PowerIntegrations_eDIP-12B
+Power Integrations eDIP-12B, see https://www.power.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+11
+11
+Package_DIP
+SMDIP-4_W7.62mm
+4-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-Diode_THT
-Diode_Bridge_Round_D9.0mm
-4-lead round diode bridge package, diameter 9.0mm, pin pitch 5.0mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40r.pdf
-diode bridge 9.0mm 8.85mm WOB pitch 5.0mm
+Package_DIP
+SMDIP-4_W9.53mm
+4-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
 0
 4
 4
-Diode_THT
-Diode_Bridge_Round_D9.8mm
-4-lead round diode bridge package, diameter 9.8mm, pin pitch 5.08mm, see http://www.vishay.com/docs/88769/woo5g.pdf
-diode bridge 9.8mm WOG pitch 5.08mm
+Package_DIP
+SMDIP-4_W9.53mm_Clearance8mm
+4-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
 0
 4
 4
-Diode_THT
-Diode_Bridge_Vishay_GBL
-Vishay GBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88609/gbl005.pdf
-Vishay GBL rectifier diode bridge
+Package_DIP
+SMDIP-4_W11.48mm
+4-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
 0
 4
 4
-Diode_THT
-Diode_Bridge_Vishay_GBU
-Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
-Vishay GBU rectifier diode bridge
+Package_DIP
+SMDIP-6_W7.62mm
+6-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+6
+6
+Package_DIP
+SMDIP-6_W9.53mm
+6-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+6
+6
+Package_DIP
+SMDIP-6_W9.53mm_Clearance8mm
+6-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+6
+6
+Package_DIP
+SMDIP-6_W11.48mm
+6-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+6
+6
+Package_DIP
+SMDIP-8_W7.62mm
+8-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+Package_DIP
+SMDIP-8_W9.53mm
+8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+8
+8
+Package_DIP
+SMDIP-8_W9.53mm_Clearance8mm
+8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+8
+8
+Package_DIP
+SMDIP-8_W11.48mm
+8-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+8
+8
+Package_DIP
+SMDIP-10_W7.62mm
+10-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+10
+10
+Package_DIP
+SMDIP-10_W9.53mm
+10-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+10
+10
+Package_DIP
+SMDIP-10_W9.53mm_Clearance8mm
+10-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+10
+10
+Package_DIP
+SMDIP-10_W11.48mm
+10-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+10
+10
+Package_DIP
+SMDIP-12_W7.62mm
+12-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+12
+12
+Package_DIP
+SMDIP-12_W9.53mm
+12-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+12
+12
+Package_DIP
+SMDIP-12_W9.53mm_Clearance8mm
+12-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+12
+12
+Package_DIP
+SMDIP-12_W11.48mm
+12-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+12
+12
+Package_DIP
+SMDIP-14_W7.62mm
+14-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+Package_DIP
+SMDIP-14_W9.53mm
+14-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+14
+14
+Package_DIP
+SMDIP-14_W9.53mm_Clearance8mm
+14-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+14
+14
+Package_DIP
+SMDIP-14_W11.48mm
+14-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+14
+14
+Package_DIP
+SMDIP-16_W7.62mm
+16-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+16
+16
+Package_DIP
+SMDIP-16_W9.53mm
+16-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+16
+16
+Package_DIP
+SMDIP-16_W9.53mm_Clearance8mm
+16-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+16
+16
+Package_DIP
+SMDIP-16_W11.48mm
+16-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+16
+16
+Package_DIP
+SMDIP-18_W7.62mm
+18-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+18
+18
+Package_DIP
+SMDIP-18_W9.53mm
+18-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+18
+18
+Package_DIP
+SMDIP-18_W9.53mm_Clearance8mm
+18-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+18
+18
+Package_DIP
+SMDIP-18_W11.48mm
+18-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+18
+18
+Package_DIP
+SMDIP-20_W7.62mm
+20-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+20
+20
+Package_DIP
+SMDIP-20_W9.53mm
+20-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+20
+20
+Package_DIP
+SMDIP-20_W9.53mm_Clearance8mm
+20-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+20
+20
+Package_DIP
+SMDIP-20_W11.48mm
+20-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+20
+20
+Package_DIP
+SMDIP-22_W7.62mm
+22-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+22
+22
+Package_DIP
+SMDIP-22_W9.53mm
+22-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+22
+22
+Package_DIP
+SMDIP-22_W9.53mm_Clearance8mm
+22-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+22
+22
+Package_DIP
+SMDIP-22_W11.48mm
+22-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+22
+22
+Package_DIP
+SMDIP-24_W7.62mm
+24-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+24
+24
+Package_DIP
+SMDIP-24_W9.53mm
+24-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+24
+24
+Package_DIP
+SMDIP-24_W11.48mm
+24-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+24
+24
+Package_DIP
+SMDIP-24_W15.24mm
+24-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+24
+24
+Package_DIP
+SMDIP-28_W15.24mm
+28-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+28
+28
+Package_DIP
+SMDIP-32_W7.62mm
+32-lead surface-mounted (SMD) DIP package, row spacing 7.62 mm (300 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 7.62mm 300mil
+0
+32
+32
+Package_DIP
+SMDIP-32_W9.53mm
+32-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil
+0
+32
+32
+Package_DIP
+SMDIP-32_W11.48mm
+32-lead surface-mounted (SMD) DIP package, row spacing 11.48 mm (451 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 11.48mm 451mil
+0
+32
+32
+Package_DIP
+SMDIP-32_W15.24mm
+32-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+32
+32
+Package_DIP
+SMDIP-40_W15.24mm
+40-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+40
+40
+Package_DIP
+SMDIP-40_W25.24mm
+40-lead surface-mounted (SMD) DIP package, row spacing 25.24 mm (993 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 25.24mm 993mil
+0
+40
+40
+Package_DIP
+SMDIP-42_W15.24mm
+42-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+42
+42
+Package_DIP
+SMDIP-48_W15.24mm
+48-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+48
+48
+Package_DIP
+SMDIP-64_W15.24mm
+64-lead surface-mounted (SMD) DIP package, row spacing 15.24 mm (600 mils)
+SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil
+0
+64
+64
+Package_DIP
+Toshiba_11-7A9
+Toshiba 11-7A9 package, like 6-lead dip package with missing pin 5, row spacing 7.62 mm (300 mils), https://toshiba.semicon-storage.com/info/docget.jsp?did=1421&prodName=TLP3021(S)
+Toshiba 11-7A9 DIL DIP PDIP 2.54mm 7.62mm 300mil
+0
+5
+5
+Package_DIP
+Vishay_HVM-DIP-3_W7.62mm
+3-lead though-hole mounted high-volatge DIP package (based on standard DIP-4), row spacing 7.62 mm (300 mils), see https://www.vishay.com/docs/91361/hexdip.pdf
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Vishay HVMDIP HEXDIP
 0
 4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBL
-Vishay KBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88655/kbl005.pdf
-Vishay KBL rectifier diode bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBPC1
-Single phase bridge rectifier case KBPC1, see http://www.vishay.com/docs/93585/vs-kbpc1series.pdf
-Diode Bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBPC6
-Single phase bridge rectifier case KBPC6, see http://www.vishay.com/docs/93585/vs-kbpc1series.pdf
-Diode Bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBPM
-Vishay KBM rectifier package, 3.95mm pitch (http://www.farnell.com/datasheets/2238158.pdf, http://www.cdil.com/s/kbp2005_.pdf)
-Vishay KBM rectifier diode bridge
-0
-4
-4
-Diode_THT
-Diode_Bridge_Vishay_KBU
-Vishay KBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88656/kbu4.pdf
-Vishay KBU rectifier diode bridge
-0
-4
-4
+3
