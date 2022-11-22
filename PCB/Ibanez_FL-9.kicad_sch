@@ -6917,7 +6917,7 @@
     (property "Value" "0.033uf FILM" (id 1) (at 145.415 50.165 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm" (id 2) (at 149.86 52.705 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (id 2) (at 149.86 52.705 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 149.86 52.705 0)
@@ -7292,13 +7292,13 @@
   (symbol (lib_id "Device:CP1_Small") (at 109.22 135.89 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d1d8c804-82a8-4d66-8de0-b275f8034f82)
-    (property "Reference" "C128" (id 0) (at 101.6 133.35 0)
+    (property "Reference" "C128" (id 0) (at 101.6 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "22uf/10v" (id 1) (at 97.79 135.89 0)
+    (property "Value" "22uf/10v TAN" (id 1) (at 99.695 137.795 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (id 2) (at 109.22 135.89 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm" (id 2) (at 109.22 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 109.22 135.89 0)
@@ -8199,7 +8199,7 @@
       (reference "C107") (unit 1) (value "120pf CER") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
     )
     (path "/ba99d06d-930a-4fa1-a022-57872c1585a5"
-      (reference "C108") (unit 1) (value "0.033uf FILM") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
+      (reference "C108") (unit 1) (value "0.033uf FILM") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm")
     )
     (path "/ab885ec3-067d-48e4-8a08-ed3135c7cc40"
       (reference "C109") (unit 1) (value "1uf/50v") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
@@ -8259,7 +8259,7 @@
       (reference "C127") (unit 1) (value "5pf CER") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
     )
     (path "/d1d8c804-82a8-4d66-8de0-b275f8034f82"
-      (reference "C128") (unit 1) (value "22uf/10v") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
+      (reference "C128") (unit 1) (value "22uf/10v TAN") (footprint "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-00005f94d28a"
       (reference "C129") (unit 1) (value "0.01uf") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
