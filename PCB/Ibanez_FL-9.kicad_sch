@@ -6,7 +6,7 @@
 
   (title_block
     (title "Ibanez_FL-9_Flanger_Pedal MP-FL0601")
-    (date "2022-11-21")
+    (date "2022-11-22")
     (rev "v01")
     (company "Cedar Grove Studios")
     (comment 1 "MP-FL0601")
@@ -4121,6 +4121,10 @@
     (effects (font (size 1.905 1.905)) (justify left bottom))
     (uuid 34db8a2d-6f91-4516-af64-35725c9fe546)
   )
+  (text "as-built:\n0.02uf FILM" (at 76.2 52.705 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 365ef941-2c77-480f-8464-7246c70c2d64)
+  )
   (text "CLOCK\nTRIM" (at 133.35 133.35 0)
     (effects (font (size 1.27 1.27) italic) (justify left bottom))
     (uuid 404fe59f-89f1-4f63-9c72-5b8addc31818)
@@ -4334,7 +4338,7 @@
     (property "Value" "100uf/16v" (id 1) (at 118.11 175.895 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D7.5mm_P2.50mm" (id 2) (at 118.11 171.45 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (id 2) (at 118.11 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 118.11 171.45 0)
@@ -4766,7 +4770,7 @@
     (property "Value" "100uf/10v" (id 1) (at 130.175 175.895 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm" (id 2) (at 140.335 172.085 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 140.335 172.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.335 172.085 0)
@@ -7041,7 +7045,7 @@
     (property "Value" "0.047uf FILM" (id 1) (at 76.2 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm" (id 2) (at 85.725 43.815 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm" (id 2) (at 85.725 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 85.725 43.815 0)
@@ -7060,7 +7064,7 @@
     (property "Value" "0.047uf FILM" (id 1) (at 40.64 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm" (id 2) (at 44.45 46.355 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" (id 2) (at 44.45 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 44.45 46.355 0)
@@ -7616,7 +7620,7 @@
     (property "Value" "1N4004" (id 1) (at 102.235 26.67 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (id 2) (at 104.775 24.765 0)
+    (property "Footprint" "Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp" (id 2) (at 104.775 24.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" (id 3) (at 104.775 29.21 0)
@@ -8008,7 +8012,7 @@
     (property "Value" "1N4004" (id 1) (at 102.235 37.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (id 2) (at 104.775 37.465 0)
+    (property "Footprint" "Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp" (id 2) (at 104.775 37.465 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" (id 3) (at 104.775 33.02 0)
@@ -8174,7 +8178,7 @@
       (reference "BT1") (unit 1) (value "9V Battery") (footprint "Battery:BatteryHolder_MPD_BA9VPC_1xPP3")
     )
     (path "/c3c1cabe-2e9a-488d-8f40-6306f1a2336e"
-      (reference "C101") (unit 1) (value "0.047uf FILM") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
+      (reference "C101") (unit 1) (value "0.047uf FILM") (footprint "Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/695d5e86-cf8e-47d8-b5c0-e7d48f875f80"
       (reference "C102") (unit 1) (value "100pf CER") (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm")
@@ -8183,7 +8187,7 @@
       (reference "C103") (unit 1) (value "0.022uf FILM") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
     )
     (path "/c346235f-4d02-486b-8c25-262da1e203e7"
-      (reference "C104") (unit 1) (value "0.047uf FILM") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
+      (reference "C104") (unit 1) (value "0.047uf FILM") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm")
     )
     (path "/077a8cee-b23f-4957-801a-aa35b59f1997"
       (reference "C105") (unit 1) (value "0.004uf FILM") (footprint "Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm")
@@ -8270,10 +8274,10 @@
       (reference "C132") (unit 1) (value "47uf/6.3v") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-0000611b49a7"
-      (reference "C133") (unit 1) (value "100uf/16v") (footprint "Capacitor_THT:CP_Radial_D7.5mm_P2.50mm")
+      (reference "C133") (unit 1) (value "100uf/16v") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/1e606b88-7641-4a41-9f6b-902ee963889f"
-      (reference "C134") (unit 1) (value "100uf/10v") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm")
+      (reference "C134") (unit 1) (value "100uf/10v") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/0f4a55bc-a8d2-4736-a9f5-016cffbfddbd"
       (reference "C135") (unit 1) (value "47uf/6.3v") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
@@ -8288,10 +8292,10 @@
       (reference "D1") (unit 1) (value "LN21CPSL") (footprint "LED_THT:LED_D3.0mm_Clear")
     )
     (path "/e8e17946-fe51-47d4-9523-932e0cd415cd"
-      (reference "D101") (unit 1) (value "1N4004") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (reference "D101") (unit 1) (value "1N4004") (footprint "Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp")
     )
     (path "/ff0c2d69-4924-4851-9e12-f5f38ecf217b"
-      (reference "D102") (unit 1) (value "1N4004") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
+      (reference "D102") (unit 1) (value "1N4004") (footprint "Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp")
     )
     (path "/636f1130-2ada-4df5-a45d-16f01dff0ff5"
       (reference "D103") (unit 1) (value "1N4004") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
