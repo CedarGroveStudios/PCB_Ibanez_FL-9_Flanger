@@ -4,7 +4,7 @@
     (thickness 1.6)
   )
 
-  (paper "A4")
+  (paper "USLetter")
   (title_block
     (title "Ibanez_FL-9_Flanger_Pedal MP-FL0601")
     (date "2022-11-22")
@@ -4110,6 +4110,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "/Users/cedargrove/Downloads/CUI_DEVICES_PJ-102AH/CUI_DEVICES_PJ-102AH.step"
+      (offset (xyz 0 -13.5 5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 90))
     )
   )
 
