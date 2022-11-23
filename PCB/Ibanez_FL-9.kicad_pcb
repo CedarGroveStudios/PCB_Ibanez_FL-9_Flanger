@@ -4111,7 +4111,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/Users/cedargrove/Downloads/CUI_DEVICES_PJ-102AH/CUI_DEVICES_PJ-102AH.step"
+    (model "/Users/cedargrove/Documents/KiCad/6.0/3dmodels/CUI_DEVICES_PJ-102AH/CUI_DEVICES_PJ-102AH.step"
       (offset (xyz 0 -13.5 5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
@@ -4213,6 +4213,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "/Users/cedargrove/Documents/KiCad/6.0/3dmodels/trimpot_6mm_3306K001.stp"
+      (offset (xyz 0.5 0.9 0.5))
+      (scale (xyz 1 0.9 1))
+      (rotate (xyz -180 0 90))
     )
   )
 
@@ -4787,6 +4792,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "/Users/cedargrove/Documents/KiCad/6.0/3dmodels/trimpot_6mm_3306K001.stp"
+      (offset (xyz 0.5 0.9 0.5))
+      (scale (xyz 1 0.9 1))
+      (rotate (xyz -180 0 90))
+    )
   )
 
   (footprint "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" (layer "F.Cu")
@@ -5156,6 +5166,11 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "/Users/cedargrove/Documents/KiCad/6.0/3dmodels/trimpot_6mm_3306K001.stp"
+      (offset (xyz 0.5 0.9 0.5))
+      (scale (xyz 1 0.9 1))
+      (rotate (xyz -180 0 90))
     )
   )
 
