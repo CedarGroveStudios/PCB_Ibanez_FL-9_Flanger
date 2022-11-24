@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/Users/cedargrove/Documents/GitHub/PCB_Ibanez_FL-9_Flanger/PCB/Ibanez_FL-9.kicad_sch</source>
-    <date>Sunday, November 20, 2022 at 06:27:00 PM</date>
+    <date>Wednesday, November 23, 2022 at 09:24:03 PM</date>
     <tool>Eeschema (6.0.0-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Ibanez_FL-9_Flanger_Pedal MP-FL0601</title>
         <company>Cedar Grove Studios</company>
         <rev>v01</rev>
-        <date>2022-11-02</date>
+        <date>2022-11-23</date>
         <source>Ibanez_FL-9.kicad_sch</source>
         <comment number="1" value="MP-FL0601"/>
         <comment number="2" value=""/>
@@ -26,7 +26,11 @@
   <components>
     <comp ref="BT1">
       <value>9V Battery</value>
+      <fields>
+        <field name="Description">9 Volt</field>
+      </fields>
       <libsource lib="Device" part="Battery" description="Multiple-cell battery"/>
+      <property name="Description" value="9 Volt"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -34,8 +38,12 @@
     </comp>
     <comp ref="C101">
       <value>0.047uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -43,8 +51,12 @@
     </comp>
     <comp ref="C102">
       <value>100pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -52,8 +64,12 @@
     </comp>
     <comp ref="C103">
       <value>0.022uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -61,8 +77,12 @@
     </comp>
     <comp ref="C104">
       <value>0.047uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -70,8 +90,12 @@
     </comp>
     <comp ref="C105">
       <value>0.004uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -79,8 +103,12 @@
     </comp>
     <comp ref="C106">
       <value>0.01uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -88,8 +116,12 @@
     </comp>
     <comp ref="C107">
       <value>120pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -97,8 +129,12 @@
     </comp>
     <comp ref="C108">
       <value>0.033uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -106,8 +142,12 @@
     </comp>
     <comp ref="C109">
       <value>1uf/50v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -115,8 +155,12 @@
     </comp>
     <comp ref="C110">
       <value>1uf/50</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Description">AL NON-POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="AL NON-POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -124,17 +168,25 @@
     </comp>
     <comp ref="C111">
       <value>0.0015uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c616e0ab-9f41-4f2c-a972-9ebfc7f77ee4</tstamps>
     </comp>
     <comp ref="C112">
-      <value>0.001uf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <value>0.001uf FILM</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -142,8 +194,12 @@
     </comp>
     <comp ref="C113">
       <value>0.003uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -151,8 +207,12 @@
     </comp>
     <comp ref="C114">
       <value>560pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -160,8 +220,12 @@
     </comp>
     <comp ref="C115">
       <value>1uf/50</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Description">AL NON-POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="AL NON-POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -169,8 +233,12 @@
     </comp>
     <comp ref="C116">
       <value>0.22uf/50v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -178,8 +246,12 @@
     </comp>
     <comp ref="C117">
       <value>1uf/50</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Description">AL NON-POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="AL NON-POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -187,8 +259,12 @@
     </comp>
     <comp ref="C118">
       <value>100pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -196,8 +272,12 @@
     </comp>
     <comp ref="C119">
       <value>0.004 FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -205,8 +285,12 @@
     </comp>
     <comp ref="C120">
       <value>10uf/16v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -214,8 +298,12 @@
     </comp>
     <comp ref="C121">
       <value>0.047uf FILM</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -223,8 +311,12 @@
     </comp>
     <comp ref="C122">
       <value>1000pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -232,8 +324,12 @@
     </comp>
     <comp ref="C123">
       <value>1000pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -241,8 +337,12 @@
     </comp>
     <comp ref="C124">
       <value>1000pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -250,8 +350,12 @@
     </comp>
     <comp ref="C125">
       <value>1uf/50v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -259,8 +363,12 @@
     </comp>
     <comp ref="C126">
       <value>20pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -268,26 +376,38 @@
     </comp>
     <comp ref="C127">
       <value>5pf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <footprint>Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">CERAMIC</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="CERAMIC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dac5e30c-aab7-4153-9e7e-d11a19184096</tstamps>
     </comp>
     <comp ref="C128">
-      <value>22uf/10v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <value>22uf/10v TAN</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">TANTALUM</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="TANTALUM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d1d8c804-82a8-4d66-8de0-b275f8034f82</tstamps>
     </comp>
     <comp ref="C129">
-      <value>0.01uf</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <value>0.01uf FILM</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Description">FILM</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="FILM"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -295,8 +415,12 @@
     </comp>
     <comp ref="C130">
       <value>47uf/10v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -304,8 +428,12 @@
     </comp>
     <comp ref="C131">
       <value>47uf/10v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -313,8 +441,12 @@
     </comp>
     <comp ref="C132">
       <value>47uf/6.3v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -322,8 +454,12 @@
     </comp>
     <comp ref="C133">
       <value>100uf/16v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -331,8 +467,12 @@
     </comp>
     <comp ref="C134">
       <value>100uf/10v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.00mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -340,75 +480,106 @@
     </comp>
     <comp ref="C135">
       <value>47uf/6.3v</value>
-      <footprint>Capacitor_SMD:CP_Elec_6.6x6.6</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
       <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0f4a55bc-a8d2-4736-a9f5-016cffbfddbd</tstamps>
     </comp>
-    <comp ref="C201">
-      <value>0.001uf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+    <comp ref="CR1">
+      <value>CR_N01</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">RESISTOR-CAPACITOR NETWORK</field>
+      </fields>
+      <libsource lib="Device" part="CR_N01" description=""/>
+      <property name="Description" value="RESISTOR-CAPACITOR NETWORK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>1e4b9f09-30ee-409d-9226-9b0e6b034421</tstamps>
+      <tstamps>a78866be-8c94-4c77-8efa-04e92cd28157</tstamps>
     </comp>
-    <comp ref="C202">
-      <value>0.001uf CER</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+    <comp ref="CR2">
+      <value>CR_N01</value>
+      <footprint>Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm</footprint>
+      <fields>
+        <field name="Description">RESISTOR-CAPACITOR NETWORK</field>
+      </fields>
+      <libsource lib="Device" part="CR_N01" description=""/>
+      <property name="Description" value="RESISTOR-CAPACITOR NETWORK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7009e696-6619-456e-9b80-7055a859417d</tstamps>
+      <tstamps>c5f1a6cc-3527-4bce-88bd-023a2d20bc2d</tstamps>
     </comp>
     <comp ref="D1">
       <value>LN21CPSL</value>
-      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="Description">LED, CLEAR RED</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Description" value="LED, CLEAR RED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f92ed80</tstamps>
     </comp>
     <comp ref="D101">
-      <value>1N4004</value>
-      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <fields>
+        <field name="Description">SIGNAL DIODE, 1N4148</field>
+      </fields>
       <libsource lib="Diode" part="1N4448" description="100V 0.15A High-speed standard diode, DO-35"/>
+      <property name="Description" value="SIGNAL DIODE, 1N4148"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e8e17946-fe51-47d4-9523-932e0cd415cd</tstamps>
     </comp>
     <comp ref="D102">
-      <value>1N4004</value>
-      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <fields>
+        <field name="Description">SIGNAL DIODE, 1N4148</field>
+      </fields>
       <libsource lib="Diode" part="1N4448" description="100V 0.15A High-speed standard diode, DO-35"/>
+      <property name="Description" value="SIGNAL DIODE, 1N4148"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ff0c2d69-4924-4851-9e12-f5f38ecf217b</tstamps>
     </comp>
     <comp ref="D103">
-      <value>1N4004</value>
-      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <fields>
+        <field name="Description">SIGNAL DIODE, 1N4148</field>
+      </fields>
       <libsource lib="Diode" part="1N4448" description="100V 0.15A High-speed standard diode, DO-35"/>
+      <property name="Description" value="SIGNAL DIODE, 1N4148"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>636f1130-2ada-4df5-a45d-16f01dff0ff5</tstamps>
     </comp>
     <comp ref="D104">
-      <value>1N4004</value>
-      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <fields>
+        <field name="Description">SIGNAL DIODE, 1N4148</field>
+      </fields>
       <libsource lib="Diode" part="1N4448" description="100V 0.15A High-speed standard diode, DO-35"/>
+      <property name="Description" value="SIGNAL DIODE, 1N4148"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -416,7 +587,12 @@
     </comp>
     <comp ref="D105">
       <value>RD5.1EB</value>
+      <footprint>Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp</footprint>
+      <fields>
+        <field name="Description">5.1V ZENER DIODE</field>
+      </fields>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Description" value="5.1V ZENER DIODE"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -426,17 +602,25 @@
       <value>W05C</value>
       <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <fields>
+        <field name="Description">SCHOTTKY DIODE, 50V 500MA</field>
+      </fields>
       <libsource lib="Diode" part="1N4448" description="100V 0.15A High-speed standard diode, DO-35"/>
+      <property name="Description" value="SCHOTTKY DIODE, 50V 500MA"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>348dbaa7-a91b-47b4-a762-5e0cef7ae97e</tstamps>
     </comp>
     <comp ref="D107">
-      <value>1N4004</value>
-      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <fields>
+        <field name="Description">SIGNAL DIODE, 1N4148</field>
+      </fields>
       <libsource lib="Diode" part="1N4448" description="100V 0.15A High-speed standard diode, DO-35"/>
+      <property name="Description" value="SIGNAL DIODE, 1N4148"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -444,7 +628,11 @@
     </comp>
     <comp ref="J1">
       <value>INPUT</value>
+      <fields>
+        <field name="Description">0.25-INCH TRS JACK</field>
+      </fields>
       <libsource lib="Connector" part="AudioJack3" description="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <property name="Description" value="0.25-INCH TRS JACK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -452,7 +640,11 @@
     </comp>
     <comp ref="J2">
       <value>OUTPUT</value>
+      <fields>
+        <field name="Description">0.25-INCH TS JACK</field>
+      </fields>
       <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <property name="Description" value="0.25-INCH TS JACK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -460,7 +652,12 @@
     </comp>
     <comp ref="J3">
       <value>EXT_DC</value>
+      <footprint>Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002</footprint>
+      <fields>
+        <field name="Description">2.1MM BARREL JACK SWITCHED</field>
+      </fields>
       <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Description" value="2.1MM BARREL JACK SWITCHED"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -468,6 +665,7 @@
     </comp>
     <comp ref="JP1">
       <value>GRY</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_1" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -476,6 +674,7 @@
     </comp>
     <comp ref="JP2">
       <value>YEL</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_1" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -484,6 +683,7 @@
     </comp>
     <comp ref="JP3">
       <value>WHT</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_1" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -492,6 +692,7 @@
     </comp>
     <comp ref="JP4">
       <value>RED</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -500,6 +701,7 @@
     </comp>
     <comp ref="JP5">
       <value>BLU</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_1" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -508,6 +710,7 @@
     </comp>
     <comp ref="JP6">
       <value>PUR</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_1" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -516,6 +719,7 @@
     </comp>
     <comp ref="JP7">
       <value>BRN</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_1" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -524,6 +728,7 @@
     </comp>
     <comp ref="JP8">
       <value>S-BL</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_2" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -532,6 +737,7 @@
     </comp>
     <comp ref="JP9">
       <value>RED</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -540,6 +746,7 @@
     </comp>
     <comp ref="JP10">
       <value>BLK</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_5" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -548,6 +755,7 @@
     </comp>
     <comp ref="JP11">
       <value>W/R</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -556,6 +764,7 @@
     </comp>
     <comp ref="JP12">
       <value>PINK</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_6" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -564,6 +773,7 @@
     </comp>
     <comp ref="JP13">
       <value>GRN</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_1" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -572,6 +782,7 @@
     </comp>
     <comp ref="JP14">
       <value>ORA</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_1" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -580,6 +791,7 @@
     </comp>
     <comp ref="JP15">
       <value>RED</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_3" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -588,6 +800,7 @@
     </comp>
     <comp ref="JP16">
       <value>Y-GR</value>
+      <footprint>Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm</footprint>
       <libsource lib="" part="SolderJumper_2_Bridged_4" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -596,9 +809,13 @@
     </comp>
     <comp ref="Q101">
       <value>2SC2458GR</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <fields>
+        <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
+      </fields>
       <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -606,9 +823,13 @@
     </comp>
     <comp ref="Q102">
       <value>2SC2458GR</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <fields>
+        <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
+      </fields>
       <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -616,7 +837,12 @@
     </comp>
     <comp ref="Q103">
       <value>2SK44SPC</value>
+      <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
+      <fields>
+        <field name="Description">N-CHANNEL JUNCTION FIELD EFFECT TRANSISTOR (JFET)</field>
+      </fields>
       <libsource lib="Device" part="Q_NJFET_SGD" description="N-JFET transistor, source/gate/drain"/>
+      <property name="Description" value="N-CHANNEL JUNCTION FIELD EFFECT TRANSISTOR (JFET)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -624,9 +850,13 @@
     </comp>
     <comp ref="Q104">
       <value>2SC2458GR</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <fields>
+        <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
+      </fields>
       <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -634,9 +864,13 @@
     </comp>
     <comp ref="Q105">
       <value>2SC2458GR</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <fields>
+        <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
+      </fields>
       <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -644,9 +878,13 @@
     </comp>
     <comp ref="Q106">
       <value>2SC2458GR</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <fields>
+        <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
+      </fields>
       <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -654,39 +892,40 @@
     </comp>
     <comp ref="Q107">
       <value>2SA1048Y/GR</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
       <datasheet>http://www.datasheetcatalog.org/datasheet/toshiba/905.pdf</datasheet>
+      <fields>
+        <field name="Description">HIGH-SPEED BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
+      </fields>
       <libsource lib="Transistor_BJT" part="2SA1015" description="-0.15A Ic, -50V Vce, Low Noise Audio PNP Transistor, TO-92"/>
+      <property name="Description" value="HIGH-SPEED BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f7e3d4e9-903a-4555-bb38-c79180426f53</tstamps>
     </comp>
-    <comp ref="Q108A1001">
+    <comp ref="Q108">
       <value>2SC1583F</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
-      <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <footprint>Package_TO_SOT_THT:TO-92Flat_5-PIN</footprint>
+      <fields>
+        <field name="Description">DUAL MATCHED NPN TRANSISTOR NETWORK</field>
+      </fields>
+      <libsource lib="Transistor_Array" part="2SC1583F" description="Dual matched pair NPN transistors used in Ibanez guitar pedal FL9"/>
+      <property name="Description" value="DUAL MATCHED NPN TRANSISTOR NETWORK"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>3a5416bd-3338-49c8-8847-b7f58033364f</tstamps>
-    </comp>
-    <comp ref="Q108B1001">
-      <value>2SC1583F</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
-      <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>29fef43b-564c-4523-80c1-d612e24f4e79</tstamps>
+      <tstamps>f0eb6b65-75d7-4186-86fa-917f96a4aaa4</tstamps>
     </comp>
     <comp ref="Q109">
       <value>2SC2458GR</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
       <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <fields>
+        <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
+      </fields>
       <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -694,8 +933,12 @@
     </comp>
     <comp ref="R101">
       <value>1K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -703,8 +946,12 @@
     </comp>
     <comp ref="R102">
       <value>510K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -712,8 +959,12 @@
     </comp>
     <comp ref="R103">
       <value>91K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -721,8 +972,12 @@
     </comp>
     <comp ref="R104">
       <value>18K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -730,8 +985,12 @@
     </comp>
     <comp ref="R105">
       <value>180K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -739,8 +998,12 @@
     </comp>
     <comp ref="R106">
       <value>510K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -748,8 +1011,12 @@
     </comp>
     <comp ref="R107">
       <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -757,8 +1024,12 @@
     </comp>
     <comp ref="R108">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -766,8 +1037,12 @@
     </comp>
     <comp ref="R109">
       <value>47K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -775,8 +1050,12 @@
     </comp>
     <comp ref="R110">
       <value>12K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -784,8 +1063,12 @@
     </comp>
     <comp ref="R111">
       <value>12K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -793,8 +1076,12 @@
     </comp>
     <comp ref="R112">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -802,8 +1089,12 @@
     </comp>
     <comp ref="R113">
       <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -811,8 +1102,12 @@
     </comp>
     <comp ref="R114">
       <value>5.1K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -820,8 +1115,12 @@
     </comp>
     <comp ref="R115">
       <value>5.1K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -829,8 +1128,12 @@
     </comp>
     <comp ref="R116">
       <value>56K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -838,8 +1141,12 @@
     </comp>
     <comp ref="R117">
       <value>18K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -847,8 +1154,12 @@
     </comp>
     <comp ref="R118">
       <value>18K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -856,8 +1167,12 @@
     </comp>
     <comp ref="R119">
       <value>18K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -865,8 +1180,12 @@
     </comp>
     <comp ref="R120">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -874,8 +1193,12 @@
     </comp>
     <comp ref="R121">
       <value>13K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -883,8 +1206,12 @@
     </comp>
     <comp ref="R122">
       <value>13K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -892,8 +1219,12 @@
     </comp>
     <comp ref="R123">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -901,8 +1232,12 @@
     </comp>
     <comp ref="R124">
       <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -910,8 +1245,12 @@
     </comp>
     <comp ref="R125">
       <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -919,8 +1258,12 @@
     </comp>
     <comp ref="R126">
       <value>51K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -928,8 +1271,12 @@
     </comp>
     <comp ref="R127">
       <value>91K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -937,8 +1284,12 @@
     </comp>
     <comp ref="R128">
       <value>18K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -946,17 +1297,38 @@
     </comp>
     <comp ref="R129">
       <value>91K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7ff50707-4732-45db-b302-b770fb659090</tstamps>
     </comp>
+    <comp ref="R130">
+      <value>10K</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3920da7-668b-4643-9653-2f67b4dc8614</tstamps>
+    </comp>
     <comp ref="R131">
       <value>470</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -964,8 +1336,12 @@
     </comp>
     <comp ref="R132">
       <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -973,8 +1349,12 @@
     </comp>
     <comp ref="R133">
       <value>1M</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -982,8 +1362,12 @@
     </comp>
     <comp ref="R134">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -991,8 +1375,12 @@
     </comp>
     <comp ref="R135">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1000,8 +1388,12 @@
     </comp>
     <comp ref="R136">
       <value>56K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1009,8 +1401,12 @@
     </comp>
     <comp ref="R137">
       <value>56K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1018,8 +1414,12 @@
     </comp>
     <comp ref="R138">
       <value>1M</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1027,8 +1427,12 @@
     </comp>
     <comp ref="R139">
       <value>62K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1036,8 +1440,12 @@
     </comp>
     <comp ref="R140">
       <value>22K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1045,8 +1453,12 @@
     </comp>
     <comp ref="R141">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1054,17 +1466,38 @@
     </comp>
     <comp ref="R142">
       <value>100</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c91b6b0f-757e-456b-af4f-a0946d5eac41</tstamps>
     </comp>
+    <comp ref="R143">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a92fbcec-8d1b-44fe-90c3-8c6f6984348f</tstamps>
+    </comp>
     <comp ref="R144">
       <value>2.2K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1072,8 +1505,12 @@
     </comp>
     <comp ref="R145">
       <value>330</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1081,8 +1518,12 @@
     </comp>
     <comp ref="R146">
       <value>33K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1090,8 +1531,12 @@
     </comp>
     <comp ref="R147">
       <value>27K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1099,8 +1544,12 @@
     </comp>
     <comp ref="R148">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1108,8 +1557,12 @@
     </comp>
     <comp ref="R149">
       <value>9.1K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1117,8 +1570,12 @@
     </comp>
     <comp ref="R150">
       <value>2.2M</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1126,8 +1583,12 @@
     </comp>
     <comp ref="R151">
       <value>150K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1135,8 +1596,12 @@
     </comp>
     <comp ref="R152">
       <value>220K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1144,8 +1609,12 @@
     </comp>
     <comp ref="R153">
       <value>200K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1153,8 +1622,12 @@
     </comp>
     <comp ref="R154">
       <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1162,8 +1635,12 @@
     </comp>
     <comp ref="R155">
       <value>62K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1171,8 +1648,12 @@
     </comp>
     <comp ref="R156">
       <value>51K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1180,8 +1661,12 @@
     </comp>
     <comp ref="R157">
       <value>1.2K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1189,8 +1674,12 @@
     </comp>
     <comp ref="R158">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1198,8 +1687,12 @@
     </comp>
     <comp ref="R159">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1207,8 +1700,12 @@
     </comp>
     <comp ref="R160">
       <value>110K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1216,8 +1713,12 @@
     </comp>
     <comp ref="R161">
       <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1225,8 +1726,12 @@
     </comp>
     <comp ref="R162">
       <value>270K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1234,8 +1739,12 @@
     </comp>
     <comp ref="R163">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1243,8 +1752,12 @@
     </comp>
     <comp ref="R164">
       <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1252,43 +1765,24 @@
     </comp>
     <comp ref="R165">
       <value>4.7K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Description">1/8W  5% RESISTOR</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="1/8W  5% RESISTOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>db0a2d73-dee4-4972-b8b3-b057aa94a5b8</tstamps>
     </comp>
-    <comp ref="R201">
-      <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b8dc9235-4cf9-4496-8d8e-1a2cd3087c05</tstamps>
-    </comp>
-    <comp ref="R202">
-      <value>100K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>05906e75-dd66-46e3-8927-f19a1ed06be6</tstamps>
-    </comp>
-    <comp ref="R1001">
-      <value>10K</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>e3920da7-668b-4643-9653-2f67b4dc8614</tstamps>
-    </comp>
     <comp ref="RV1">
       <value>500K</value>
+      <fields>
+        <field name="Description">POTENTIOMETER, CHASSIS MOUNT</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Description" value="POTENTIOMETER, CHASSIS MOUNT"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1296,7 +1790,11 @@
     </comp>
     <comp ref="RV2">
       <value>100K</value>
+      <fields>
+        <field name="Description">POTENTIOMETER, CHASSIS MOUNT</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Description" value="POTENTIOMETER, CHASSIS MOUNT"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1304,7 +1802,11 @@
     </comp>
     <comp ref="RV3">
       <value>50K</value>
+      <fields>
+        <field name="Description">POTENTIOMETER, CHASSIS MOUNT</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Description" value="POTENTIOMETER, CHASSIS MOUNT"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1312,7 +1814,11 @@
     </comp>
     <comp ref="RV4">
       <value>10K</value>
+      <fields>
+        <field name="Description">POTENTIOMETER, CHASSIS MOUNT</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Description" value="POTENTIOMETER, CHASSIS MOUNT"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1320,7 +1826,12 @@
     </comp>
     <comp ref="RV101">
       <value>20K</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <fields>
+        <field name="Description">TRIMMER POTENTIOMETER</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Description" value="TRIMMER POTENTIOMETER"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1328,7 +1839,12 @@
     </comp>
     <comp ref="RV102">
       <value>10K</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <fields>
+        <field name="Description">TRIMMER POTENTIOMETER</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Description" value="TRIMMER POTENTIOMETER"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1336,7 +1852,12 @@
     </comp>
     <comp ref="RV103">
       <value>100K</value>
+      <footprint>Potentiometer_THT:Potentiometer_ACP_CA6-H2,5_Horizontal</footprint>
+      <fields>
+        <field name="Description">TRIMMER POTENTIOMETER</field>
+      </fields>
       <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Description" value="TRIMMER POTENTIOMETER"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1344,7 +1865,11 @@
     </comp>
     <comp ref="SW1">
       <value>NORMAL/EFFECT</value>
+      <fields>
+        <field name="Description">SPST PUSH BUTTON SWITCH, MOMENTARY</field>
+      </fields>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Description" value="SPST PUSH BUTTON SWITCH, MOMENTARY"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1352,8 +1877,13 @@
     </comp>
     <comp ref="U101">
       <value>TL022</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Description">OPERATIONAL AMPLIFIER</field>
+      </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Description" value="OPERATIONAL AMPLIFIER"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1361,17 +1891,27 @@
     </comp>
     <comp ref="U102">
       <value>TL022</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Description">OPERATIONAL AMPLIFIER</field>
+      </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Description" value="OPERATIONAL AMPLIFIER"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>fc8ffd4f-592d-4600-af07-01b564606849 bfe8d056-0a28-4d98-90fb-99d88dacefd2 37322642-a9e8-4b7a-994e-382297571ca4</tstamps>
+      <tstamps>bfe8d056-0a28-4d98-90fb-99d88dacefd2 fc8ffd4f-592d-4600-af07-01b564606849 37322642-a9e8-4b7a-994e-382297571ca4</tstamps>
     </comp>
     <comp ref="U103">
       <value>TL022</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Description">OPERATIONAL AMPLIFIER</field>
+      </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Description" value="OPERATIONAL AMPLIFIER"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1379,8 +1919,13 @@
     </comp>
     <comp ref="U104">
       <value>MN3207</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
       <datasheet>http://www.experimentalistsanonymous.com/diy/Datasheets/MN3207.pdf</datasheet>
+      <fields>
+        <field name="Description">BUCKET BRIGADE DELAY, 1024 STAGE</field>
+      </fields>
       <libsource lib="Audio" part="MN3207" description="1024-STAGE LOW VOLTAGE OPERATION LOW NOISE BBD (bucket brigade device), delay time 2.56ms to 51.2ms, S/N 73dB, clock frequency range 10KHz to 200KHz"/>
+      <property name="Description" value="BUCKET BRIGADE DELAY, 1024 STAGE"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1388,22 +1933,31 @@
     </comp>
     <comp ref="U105">
       <value>MN3102</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
       <datasheet>http://www.experimentalistsanonymous.com/diy/Datasheets/MN3102.pdf</datasheet>
+      <fields>
+        <field name="Description">CLOCK GENERATOR</field>
+      </fields>
       <libsource lib="Timer" part="MN3102" description="Clock Generator Driver/Driver for MN3000 Series BBD (bucket brigade device), 4V to 10V, DIP-8"/>
+      <property name="Description" value="CLOCK GENERATOR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2b37b547-d985-4bb1-95e9-f10600c4d410</tstamps>
     </comp>
     <comp ref="U106">
-      <value>LM2931-5.0_TO220</value>
-      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
-      <datasheet>https://www.ti.com/lit/ds/symlink/lm2931-n.pdf</datasheet>
-      <libsource lib="Regulator_Linear" part="LM2931-5.0_TO220" description="Positive 100 mA 60V Linear Low Dropout Regulator, Fixed Output 5V, TO-220"/>
+      <value>LM78L05_TO92</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/MC78L06A-D.pdf</datasheet>
+      <fields>
+        <field name="Description">VOLTAGE REGULATOR, 5 VOLTS</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LM78L05_TO92" description="Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92"/>
+      <property name="Description" value="VOLTAGE REGULATOR, 5 VOLTS"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>fb790ab2-799c-4904-8227-d8ac947ce35a</tstamps>
+      <tstamps>e92869d9-a188-4eb9-8392-4ed107683702</tstamps>
     </comp>
   </components>
   <libparts>
@@ -1633,6 +2187,17 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Device" part="CR_N01">
+      <fields>
+        <field name="Reference">CR</field>
+        <field name="Value">CR_N01</field>
+        <field name="Footprint">Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="Device" part="C_Small">
       <description>Unpolarized capacitor, small symbol</description>
       <docs>~</docs>
@@ -1766,22 +2331,22 @@
         <pin num="2" name="B" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Regulator_Linear" part="LM2931-5.0_TO220">
-      <description>Positive 100 mA 60V Linear Low Dropout Regulator, Fixed Output 5V, TO-220</description>
-      <docs>https://www.ti.com/lit/ds/symlink/lm2931-n.pdf</docs>
+    <libpart lib="Regulator_Linear" part="LM78L05_TO92">
+      <description>Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/MC78L06A-D.pdf</docs>
       <footprints>
-        <fp>TO?220*</fp>
+        <fp>TO?92*</fp>
       </footprints>
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">LM2931-5.0_TO220</field>
-        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
-        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/lm2931-n.pdf</field>
+        <field name="Value">LM78L05_TO92</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/MC78L06A-D.pdf</field>
       </fields>
       <pins>
-        <pin num="1" name="VI" type="power_in"/>
+        <pin num="1" name="VO" type="power_out"/>
         <pin num="2" name="GND" type="power_in"/>
-        <pin num="3" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
       </pins>
     </libpart>
     <libpart lib="Switch" part="SW_Push">
@@ -1817,6 +2382,21 @@
         <pin num="6" name="OX2" type="input"/>
         <pin num="7" name="OX1" type="input"/>
         <pin num="8" name="VGG" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_Array" part="2SC1583F">
+      <description>Dual matched pair NPN transistors used in Ibanez guitar pedal FL9</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2SC1583F</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92Flat_5-PIN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B1" type="input"/>
+        <pin num="2" name="C1" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+        <pin num="4" name="C2" type="passive"/>
+        <pin num="5" name="B2" type="input"/>
       </pins>
     </libpart>
     <libpart lib="Transistor_BJT" part="2SA1015">
@@ -1884,6 +2464,9 @@
     <library logical="Timer">
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Timer.kicad_sym</uri>
     </library>
+    <library logical="Transistor_Array">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_Array.kicad_sym</uri>
+    </library>
     <library logical="Transistor_BJT">
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_BJT.kicad_sym</uri>
     </library>
@@ -1894,8 +2477,8 @@
       <node ref="JP15" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="Q107" pin="1" pinfunction="E" pintype="passive"/>
       <node ref="Q109" pin="2" pinfunction="C" pintype="passive"/>
-      <node ref="R114" pin="2" pintype="passive"/>
-      <node ref="R147" pin="2" pintype="passive"/>
+      <node ref="R114" pin="1" pintype="passive"/>
+      <node ref="R147" pin="1" pintype="passive"/>
       <node ref="R150" pin="2" pintype="passive"/>
       <node ref="R152" pin="2" pintype="passive"/>
       <node ref="R158" pin="2" pintype="passive"/>
@@ -1903,31 +2486,31 @@
       <node ref="U103" pin="8" pinfunction="V+" pintype="power_in"/>
       <node ref="U104" pin="5" pinfunction="VDD" pintype="power_in"/>
       <node ref="U105" pin="1" pinfunction="VDD" pintype="power_in"/>
-      <node ref="U106" pin="3" pinfunction="VO" pintype="power_out"/>
+      <node ref="U106" pin="1" pinfunction="VO" pintype="power_out"/>
     </net>
     <net code="2" name="+9V">
       <node ref="C133" pin="1" pintype="passive"/>
       <node ref="D106" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J3" pin="2" pintype="passive"/>
-      <node ref="R134" pin="2" pintype="passive"/>
-      <node ref="R135" pin="2" pintype="passive"/>
+      <node ref="R134" pin="1" pintype="passive"/>
+      <node ref="R135" pin="1" pintype="passive"/>
       <node ref="R139" pin="2" pintype="passive"/>
       <node ref="R163" pin="2" pintype="passive"/>
       <node ref="U101" pin="8" pinfunction="V+" pintype="power_in"/>
       <node ref="U102" pin="8" pinfunction="V+" pintype="power_in"/>
-      <node ref="U106" pin="1" pinfunction="VI" pintype="power_in"/>
+      <node ref="U106" pin="3" pinfunction="VI" pintype="power_in"/>
     </net>
     <net code="3" name="/4.5v">
       <node ref="C105" pin="1" pintype="passive"/>
       <node ref="C135" pin="1" pintype="passive"/>
       <node ref="Q101" pin="2" pinfunction="C" pintype="passive"/>
       <node ref="Q102" pin="2" pinfunction="C" pintype="passive"/>
-      <node ref="R1001" pin="1" pintype="passive"/>
-      <node ref="R102" pin="1" pintype="passive"/>
-      <node ref="R106" pin="1" pintype="passive"/>
-      <node ref="R120" pin="1" pintype="passive"/>
+      <node ref="R102" pin="2" pintype="passive"/>
+      <node ref="R106" pin="2" pintype="passive"/>
+      <node ref="R120" pin="2" pintype="passive"/>
       <node ref="R124" pin="1" pintype="passive"/>
       <node ref="R125" pin="1" pintype="passive"/>
+      <node ref="R130" pin="2" pintype="passive"/>
       <node ref="R163" pin="1" pintype="passive"/>
       <node ref="R164" pin="2" pintype="passive"/>
     </net>
@@ -1937,16 +2520,16 @@
     </net>
     <net code="5" name="/CP4">
       <node ref="C102" pin="2" pintype="passive"/>
-      <node ref="R103" pin="1" pintype="passive"/>
-      <node ref="R105" pin="2" pintype="passive"/>
-      <node ref="R127" pin="2" pintype="passive"/>
+      <node ref="R103" pin="2" pintype="passive"/>
+      <node ref="R105" pin="1" pintype="passive"/>
+      <node ref="R127" pin="1" pintype="passive"/>
       <node ref="U101" pin="7" pintype="output"/>
     </net>
     <net code="6" name="/CP5">
       <node ref="D101" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D102" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R107" pin="1" pintype="passive"/>
-      <node ref="R110" pin="2" pintype="passive"/>
+      <node ref="R110" pin="1" pintype="passive"/>
       <node ref="U102" pin="7" pintype="output"/>
     </net>
     <net code="7" name="/CP6">
@@ -1967,7 +2550,7 @@
     </net>
     <net code="10" name="/CP9">
       <node ref="C126" pin="2" pintype="passive"/>
-      <node ref="R145" pin="2" pintype="passive"/>
+      <node ref="R145" pin="1" pintype="passive"/>
       <node ref="U105" pin="7" pinfunction="OX1" pintype="input"/>
     </net>
     <net code="11" name="/CP11">
@@ -1980,7 +2563,7 @@
       <node ref="C113" pin="2" pintype="passive"/>
       <node ref="C115" pin="1" pintype="passive"/>
       <node ref="Q102" pin="1" pinfunction="E" pintype="passive"/>
-      <node ref="R123" pin="2" pintype="passive"/>
+      <node ref="R123" pin="1" pintype="passive"/>
     </net>
     <net code="13" name="/CP13">
       <node ref="C116" pin="1" pintype="passive"/>
@@ -1988,14 +2571,19 @@
       <node ref="Q103" pin="1" pinfunction="S" pintype="passive"/>
       <node ref="R125" pin="2" pintype="passive"/>
     </net>
-    <net code="14" name="/CP15">
+    <net code="14" name="/CP14">
+      <node ref="C121" pin="2" pintype="passive"/>
+      <node ref="D103" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R133" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/CP15">
       <node ref="C118" pin="2" pintype="passive"/>
       <node ref="C119" pin="2" pintype="passive"/>
       <node ref="C120" pin="1" pintype="passive"/>
-      <node ref="R129" pin="1" pintype="passive"/>
+      <node ref="R129" pin="2" pintype="passive"/>
       <node ref="U101" pin="1" pintype="output"/>
     </net>
-    <net code="15" name="GND">
+    <net code="16" name="GND">
       <node ref="C107" pin="1" pintype="passive"/>
       <node ref="C109" pin="2" pintype="passive"/>
       <node ref="C111" pin="1" pintype="passive"/>
@@ -2014,16 +2602,15 @@
       <node ref="J2" pin="S" pintype="passive"/>
       <node ref="J3" pin="1" pintype="passive"/>
       <node ref="JP10" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="Q108A1001" pin="1" pinfunction="E" pintype="passive"/>
-      <node ref="Q108B1001" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q108" pin="3" pinfunction="E" pintype="passive"/>
       <node ref="R112" pin="1" pintype="passive"/>
-      <node ref="R115" pin="1" pintype="passive"/>
+      <node ref="R115" pin="2" pintype="passive"/>
       <node ref="R116" pin="1" pintype="passive"/>
-      <node ref="R123" pin="1" pintype="passive"/>
+      <node ref="R123" pin="2" pintype="passive"/>
       <node ref="R132" pin="1" pintype="passive"/>
       <node ref="R136" pin="1" pintype="passive"/>
       <node ref="R137" pin="1" pintype="passive"/>
-      <node ref="R140" pin="1" pintype="passive"/>
+      <node ref="R140" pin="2" pintype="passive"/>
       <node ref="R142" pin="1" pintype="passive"/>
       <node ref="R159" pin="1" pintype="passive"/>
       <node ref="R162" pin="1" pintype="passive"/>
@@ -2039,418 +2626,413 @@
       <node ref="U105" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U106" pin="2" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="16" name="Net-(BT1-Pad1)">
+    <net code="17" name="Net-(BT1-Pad1)">
       <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
-      <node ref="JP9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="17" name="Net-(BT1-Pad2)">
+    <net code="18" name="Net-(BT1-Pad2)">
       <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
       <node ref="J1" pin="R" pintype="passive"/>
     </net>
-    <net code="18" name="Net-(C101-Pad1)">
+    <net code="19" name="Net-(C101-Pad1)">
       <node ref="C101" pin="1" pintype="passive"/>
       <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(C101-Pad2)">
+    <net code="20" name="Net-(C101-Pad2)">
       <node ref="C101" pin="2" pintype="passive"/>
-      <node ref="R101" pin="2" pintype="passive"/>
+      <node ref="R101" pin="1" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(C102-Pad1)">
+    <net code="21" name="Net-(C102-Pad1)">
       <node ref="C102" pin="1" pintype="passive"/>
-      <node ref="R103" pin="2" pintype="passive"/>
-      <node ref="R104" pin="1" pintype="passive"/>
+      <node ref="R103" pin="1" pintype="passive"/>
+      <node ref="R104" pin="2" pintype="passive"/>
       <node ref="U101" pin="6" pinfunction="-" pintype="input"/>
     </net>
-    <net code="21" name="Net-(C103-Pad1)">
+    <net code="22" name="Net-(C103-Pad1)">
       <node ref="C103" pin="1" pintype="passive"/>
       <node ref="RV103" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="RV103" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="22" name="Net-(C103-Pad2)">
+    <net code="23" name="Net-(C103-Pad2)">
       <node ref="C103" pin="2" pintype="passive"/>
       <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="23" name="Net-(C104-Pad1)">
+    <net code="24" name="Net-(C104-Pad1)">
       <node ref="C104" pin="1" pintype="passive"/>
-      <node ref="R105" pin="1" pintype="passive"/>
+      <node ref="R105" pin="2" pintype="passive"/>
     </net>
-    <net code="24" name="Net-(C104-Pad2)">
+    <net code="25" name="Net-(C104-Pad2)">
       <node ref="C104" pin="2" pintype="passive"/>
       <node ref="R107" pin="2" pintype="passive"/>
-      <node ref="R108" pin="2" pintype="passive"/>
-      <node ref="R109" pin="2" pintype="passive"/>
+      <node ref="R108" pin="1" pintype="passive"/>
+      <node ref="R109" pin="1" pintype="passive"/>
       <node ref="U102" pin="6" pinfunction="-" pintype="input"/>
     </net>
-    <net code="25" name="Net-(C105-Pad2)">
+    <net code="26" name="Net-(C105-Pad2)">
       <node ref="C105" pin="2" pintype="passive"/>
-      <node ref="R104" pin="2" pintype="passive"/>
+      <node ref="R104" pin="1" pintype="passive"/>
     </net>
-    <net code="26" name="Net-(C106-Pad1)">
+    <net code="27" name="Net-(C106-Pad1)">
       <node ref="C106" pin="1" pintype="passive"/>
-      <node ref="R110" pin="1" pintype="passive"/>
+      <node ref="R110" pin="2" pintype="passive"/>
       <node ref="R111" pin="2" pintype="passive"/>
     </net>
-    <net code="27" name="Net-(C107-Pad2)">
+    <net code="28" name="Net-(C107-Pad2)">
       <node ref="C107" pin="2" pintype="passive"/>
       <node ref="Q101" pin="3" pinfunction="B" pintype="input"/>
       <node ref="R111" pin="1" pintype="passive"/>
     </net>
-    <net code="28" name="Net-(C108-Pad2)">
+    <net code="29" name="Net-(C108-Pad2)">
       <node ref="C108" pin="2" pintype="passive"/>
       <node ref="R113" pin="2" pintype="passive"/>
       <node ref="U104" pin="3" pinfunction="IN" pintype="input"/>
     </net>
-    <net code="29" name="Net-(C109-Pad1)">
+    <net code="30" name="Net-(C109-Pad1)">
       <node ref="C109" pin="1" pintype="passive"/>
       <node ref="R113" pin="1" pintype="passive"/>
       <node ref="RV102" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="30" name="Net-(C110-Pad2)">
+    <net code="31" name="Net-(C110-Pad2)">
       <node ref="C110" pin="2" pintype="passive"/>
-      <node ref="R117" pin="2" pintype="passive"/>
-    </net>
-    <net code="31" name="Net-(C111-Pad2)">
-      <node ref="C111" pin="2" pintype="passive"/>
       <node ref="R117" pin="1" pintype="passive"/>
-      <node ref="R118" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C111-Pad2)">
+      <node ref="C111" pin="2" pintype="passive"/>
+      <node ref="R117" pin="2" pintype="passive"/>
+      <node ref="R118" pin="1" pintype="passive"/>
       <node ref="R119" pin="2" pintype="passive"/>
     </net>
-    <net code="32" name="Net-(C112-Pad1)">
+    <net code="33" name="Net-(C112-Pad1)">
       <node ref="C112" pin="1" pintype="passive"/>
-      <node ref="R118" pin="1" pintype="passive"/>
+      <node ref="R118" pin="2" pintype="passive"/>
       <node ref="U102" pin="2" pinfunction="-" pintype="input"/>
     </net>
-    <net code="33" name="Net-(C113-Pad1)">
+    <net code="34" name="Net-(C113-Pad1)">
       <node ref="C113" pin="1" pintype="passive"/>
       <node ref="R121" pin="1" pintype="passive"/>
       <node ref="R122" pin="2" pintype="passive"/>
     </net>
-    <net code="34" name="Net-(C114-Pad2)">
+    <net code="35" name="Net-(C114-Pad2)">
       <node ref="C114" pin="2" pintype="passive"/>
       <node ref="Q102" pin="3" pinfunction="B" pintype="input"/>
       <node ref="R122" pin="1" pintype="passive"/>
     </net>
-    <net code="35" name="Net-(C115-Pad2)">
+    <net code="36" name="Net-(C115-Pad2)">
       <node ref="C115" pin="2" pintype="passive"/>
       <node ref="Q103" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R124" pin="2" pintype="passive"/>
     </net>
-    <net code="36" name="Net-(C116-Pad2)">
+    <net code="37" name="Net-(C116-Pad2)">
       <node ref="C116" pin="2" pintype="passive"/>
       <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="37" name="Net-(C117-Pad2)">
+    <net code="38" name="Net-(C117-Pad2)">
       <node ref="C117" pin="2" pintype="passive"/>
       <node ref="R126" pin="2" pintype="passive"/>
     </net>
-    <net code="38" name="Net-(C118-Pad1)">
+    <net code="39" name="Net-(C118-Pad1)">
       <node ref="C118" pin="1" pintype="passive"/>
       <node ref="R126" pin="1" pintype="passive"/>
-      <node ref="R127" pin="1" pintype="passive"/>
+      <node ref="R127" pin="2" pintype="passive"/>
       <node ref="R128" pin="2" pintype="passive"/>
-      <node ref="R129" pin="2" pintype="passive"/>
+      <node ref="R129" pin="1" pintype="passive"/>
       <node ref="U101" pin="2" pinfunction="-" pintype="input"/>
     </net>
-    <net code="39" name="Net-(C119-Pad1)">
+    <net code="40" name="Net-(C119-Pad1)">
       <node ref="C119" pin="1" pintype="passive"/>
       <node ref="R128" pin="1" pintype="passive"/>
     </net>
-    <net code="40" name="Net-(C120-Pad2)">
+    <net code="41" name="Net-(C120-Pad2)">
       <node ref="C120" pin="2" pintype="passive"/>
-      <node ref="R131" pin="2" pintype="passive"/>
+      <node ref="R131" pin="1" pintype="passive"/>
     </net>
-    <net code="41" name="Net-(C122-Pad1)">
+    <net code="42" name="Net-(C122-Pad1)">
       <node ref="C122" pin="1" pintype="passive"/>
       <node ref="C123" pin="1" pintype="passive"/>
       <node ref="C124" pin="2" pintype="passive"/>
       <node ref="R138" pin="2" pintype="passive"/>
-      <node ref="R141" pin="2" pintype="passive"/>
+      <node ref="R141" pin="1" pintype="passive"/>
     </net>
-    <net code="42" name="Net-(C123-Pad2)">
+    <net code="43" name="Net-(C122-Pad2)">
+      <node ref="C122" pin="2" pintype="passive"/>
+      <node ref="CR1" pin="1" pintype="passive"/>
+      <node ref="Q105" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="R137" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(C123-Pad2)">
       <node ref="C123" pin="2" pintype="passive"/>
-      <node ref="C202" pin="2" pintype="passive"/>
+      <node ref="CR2" pin="2" pintype="passive"/>
       <node ref="Q104" pin="3" pinfunction="B" pintype="input"/>
       <node ref="R136" pin="2" pintype="passive"/>
-      <node ref="R202" pin="1" pintype="passive"/>
     </net>
-    <net code="43" name="Net-(C125-Pad1)">
+    <net code="45" name="Net-(C125-Pad1)">
       <node ref="C125" pin="1" pintype="passive"/>
       <node ref="U104" pin="4" pinfunction="VGG" pintype="power_in"/>
       <node ref="U105" pin="8" pinfunction="VGG" pintype="power_out"/>
     </net>
-    <net code="44" name="Net-(C126-Pad1)">
+    <net code="46" name="Net-(C126-Pad1)">
       <node ref="C126" pin="1" pintype="passive"/>
       <node ref="C127" pin="1" pintype="passive"/>
       <node ref="R146" pin="1" pintype="passive"/>
       <node ref="U105" pin="5" pinfunction="OX3" pintype="input"/>
     </net>
-    <net code="45" name="Net-(C127-Pad2)">
+    <net code="47" name="Net-(C127-Pad2)">
       <node ref="C127" pin="2" pintype="passive"/>
       <node ref="Q107" pin="3" pinfunction="B" pintype="input"/>
       <node ref="R146" pin="2" pintype="passive"/>
-      <node ref="R147" pin="1" pintype="passive"/>
+      <node ref="R147" pin="2" pintype="passive"/>
     </net>
-    <net code="46" name="Net-(C128-Pad1)">
+    <net code="48" name="Net-(C128-Pad1)">
       <node ref="C128" pin="1" pintype="passive"/>
-      <node ref="Q108B1001" pin="3" pinfunction="B" pintype="input"/>
-      <node ref="R149" pin="1" pintype="passive"/>
+      <node ref="Q108" pin="5" pinfunction="B2" pintype="input"/>
+      <node ref="R149" pin="2" pintype="passive"/>
       <node ref="R151" pin="2" pintype="passive"/>
       <node ref="R153" pin="1" pintype="passive"/>
     </net>
-    <net code="47" name="Net-(C129-Pad1)">
+    <net code="49" name="Net-(C129-Pad1)">
       <node ref="C129" pin="1" pintype="passive"/>
       <node ref="R154" pin="1" pintype="passive"/>
       <node ref="U103" pin="2" pinfunction="-" pintype="input"/>
     </net>
-    <net code="48" name="Net-(C129-Pad2)">
+    <net code="50" name="Net-(C129-Pad2)">
       <node ref="C129" pin="2" pintype="passive"/>
       <node ref="JP13" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="R155" pin="1" pintype="passive"/>
+      <node ref="R155" pin="2" pintype="passive"/>
       <node ref="U103" pin="1" pintype="output"/>
     </net>
-    <net code="49" name="Net-(C130-Pad1)">
+    <net code="51" name="Net-(C130-Pad1)">
       <node ref="C130" pin="1" pintype="passive"/>
       <node ref="C131" pin="1" pintype="passive"/>
     </net>
-    <net code="50" name="Net-(C130-Pad2)">
+    <net code="52" name="Net-(C130-Pad2)">
       <node ref="C130" pin="2" pintype="passive"/>
       <node ref="R157" pin="1" pintype="passive"/>
       <node ref="U103" pin="6" pinfunction="-" pintype="input"/>
     </net>
-    <net code="51" name="Net-(C131-Pad2)">
+    <net code="53" name="Net-(C131-Pad2)">
       <node ref="C131" pin="2" pintype="passive"/>
       <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="R156" pin="2" pintype="passive"/>
+      <node ref="R156" pin="1" pintype="passive"/>
       <node ref="U103" pin="7" pintype="output"/>
     </net>
-    <net code="52" name="Net-(C132-Pad1)">
+    <net code="54" name="Net-(C132-Pad1)">
       <node ref="C132" pin="1" pintype="passive"/>
       <node ref="R154" pin="2" pintype="passive"/>
       <node ref="R158" pin="1" pintype="passive"/>
       <node ref="R159" pin="2" pintype="passive"/>
       <node ref="U103" pin="5" pinfunction="+" pintype="input"/>
     </net>
-    <net code="53" name="Net-(C201-Pad1)">
-      <node ref="C122" pin="2" pintype="passive"/>
-      <node ref="C201" pin="1" pintype="passive"/>
-      <node ref="Q105" pin="3" pinfunction="B" pintype="input"/>
-      <node ref="R137" pin="2" pintype="passive"/>
-      <node ref="R201" pin="2" pintype="passive"/>
-    </net>
-    <net code="54" name="Net-(C201-Pad2)">
-      <node ref="C201" pin="2" pintype="passive"/>
+    <net code="55" name="Net-(CR1-Pad2)">
+      <node ref="CR1" pin="2" pintype="passive"/>
       <node ref="Q104" pin="2" pinfunction="C" pintype="passive"/>
-      <node ref="R135" pin="1" pintype="passive"/>
-      <node ref="R201" pin="1" pintype="passive"/>
+      <node ref="R135" pin="2" pintype="passive"/>
     </net>
-    <net code="55" name="Net-(D101-Pad2)">
+    <net code="56" name="Net-(CR2-Pad1)">
+      <node ref="CR2" pin="1" pintype="passive"/>
+      <node ref="Q105" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R133" pin="2" pintype="passive"/>
+      <node ref="R134" pin="2" pintype="passive"/>
+      <node ref="R143" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP12" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="JP9" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D101-Pad2)">
       <node ref="D101" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D102" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R108" pin="1" pintype="passive"/>
+      <node ref="R108" pin="2" pintype="passive"/>
     </net>
-    <net code="56" name="Net-(D104-Pad1)">
+    <net code="60" name="Net-(D103-Pad2)">
+      <node ref="D103" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q103" pin="2" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="61" name="Net-(D104-Pad1)">
       <node ref="D104" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R142" pin="2" pintype="passive"/>
     </net>
-    <net code="57" name="Net-(D107-Pad1)">
+    <net code="62" name="Net-(D104-Pad2)">
+      <node ref="D104" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q104" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q105" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q106" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D105-Pad1)">
+      <node ref="D105" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="JP12" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D105-Pad2)">
+      <node ref="D105" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R144" pin="1" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D107-Pad1)">
       <node ref="D107" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q109" pin="3" pinfunction="B" pintype="input"/>
       <node ref="R160" pin="1" pintype="passive"/>
       <node ref="R161" pin="1" pintype="passive"/>
       <node ref="R162" pin="2" pintype="passive"/>
     </net>
-    <net code="58" name="Net-(J1-PadT)">
+    <net code="66" name="Net-(J1-PadT)">
       <node ref="J1" pin="T" pintype="passive"/>
       <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="59" name="Net-(J2-PadT)">
+    <net code="67" name="Net-(J2-PadT)">
       <node ref="J2" pin="T" pintype="passive"/>
       <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="60" name="Net-(J3-Pad3)">
+    <net code="68" name="Net-(J3-Pad3)">
       <node ref="J3" pin="3" pintype="passive"/>
       <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="JP9" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="61" name="Net-(JP1-Pad1)">
+    <net code="69" name="Net-(JP1-Pad1)">
       <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV4" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="62" name="Net-(JP3-Pad1)">
+    <net code="70" name="Net-(JP3-Pad1)">
       <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="R131" pin="1" pintype="passive"/>
+      <node ref="R131" pin="2" pintype="passive"/>
       <node ref="R132" pin="2" pintype="passive"/>
     </net>
-    <net code="63" name="Net-(JP4-Pad1)">
-      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
-    </net>
-    <net code="64" name="Net-(JP5-Pad2)">
+    <net code="71" name="Net-(JP5-Pad2)">
       <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="RV4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="65" name="Net-(JP6-Pad1)">
+    <net code="72" name="Net-(JP6-Pad1)">
       <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="66" name="Net-(JP7-Pad1)">
+    <net code="73" name="Net-(JP7-Pad1)">
       <node ref="JP7" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="67" name="Net-(JP7-Pad2)">
+    <net code="74" name="Net-(JP7-Pad2)">
       <node ref="JP7" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="R157" pin="2" pintype="passive"/>
     </net>
-    <net code="68" name="Net-(JP8-Pad1)">
+    <net code="75" name="Net-(JP8-Pad1)">
       <node ref="JP8" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="69" name="Net-(JP8-Pad2)">
+    <net code="76" name="Net-(JP8-Pad2)">
       <node ref="JP8" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="Q109" pin="1" pinfunction="E" pintype="passive"/>
       <node ref="R165" pin="2" pintype="passive"/>
     </net>
-    <net code="70" name="Net-(JP10-Pad1)">
+    <net code="77" name="Net-(JP10-Pad1)">
       <node ref="JP10" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="71" name="Net-(JP11-Pad2)">
+    <net code="78" name="Net-(JP11-Pad1)">
+      <node ref="JP11" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R141" pin="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(JP11-Pad2)">
       <node ref="JP11" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="72" name="Net-(JP12-Pad1)">
-      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="JP12" pin="1" pinfunction="A" pintype="passive"/>
-    </net>
-    <net code="73" name="Net-(JP12-Pad2)">
-      <node ref="D105" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="JP12" pin="2" pinfunction="B" pintype="passive"/>
-    </net>
-    <net code="74" name="Net-(JP13-Pad1)">
+    <net code="80" name="Net-(JP13-Pad1)">
       <node ref="JP13" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="75" name="Net-(JP14-Pad1)">
+    <net code="81" name="Net-(JP14-Pad1)">
       <node ref="JP14" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="76" name="Net-(JP15-Pad1)">
+    <net code="82" name="Net-(JP15-Pad1)">
       <node ref="JP15" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="77" name="Net-(JP16-Pad1)">
+    <net code="83" name="Net-(JP16-Pad1)">
       <node ref="JP16" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="78" name="Net-(JP16-Pad2)">
+    <net code="84" name="Net-(JP16-Pad2)">
       <node ref="JP16" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="R160" pin="2" pintype="passive"/>
     </net>
-    <net code="79" name="Net-(Q103-Pad2)">
-      <node ref="D103" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Q103" pin="2" pinfunction="G" pintype="input"/>
-    </net>
-    <net code="80" name="Net-(Q105-Pad1)">
-      <node ref="D104" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Q104" pin="1" pinfunction="E" pintype="passive"/>
-      <node ref="Q105" pin="1" pinfunction="E" pintype="passive"/>
-      <node ref="Q106" pin="1" pinfunction="E" pintype="passive"/>
-    </net>
-    <net code="81" name="Net-(Q106-Pad2)">
+    <net code="85" name="Net-(Q106-Pad2)">
       <node ref="Q106" pin="2" pinfunction="C" pintype="passive"/>
       <node ref="R144" pin="2" pintype="passive"/>
     </net>
-    <net code="82" name="Net-(Q107-Pad2)">
+    <net code="86" name="Net-(Q106-Pad3)">
+      <node ref="Q106" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="R143" pin="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(Q107-Pad2)">
       <node ref="Q107" pin="2" pinfunction="C" pintype="passive"/>
-      <node ref="R145" pin="1" pintype="passive"/>
+      <node ref="R145" pin="2" pintype="passive"/>
       <node ref="R148" pin="1" pintype="passive"/>
     </net>
-    <net code="83" name="Net-(Q108A1001-Pad2)">
-      <node ref="Q108A1001" pin="2" pinfunction="C" pintype="passive"/>
-      <node ref="Q108A1001" pin="3" pinfunction="B" pintype="input"/>
-      <node ref="R149" pin="2" pintype="passive"/>
+    <net code="88" name="Net-(Q108-Pad1)">
+      <node ref="Q108" pin="1" pinfunction="B1" pintype="input"/>
+      <node ref="Q108" pin="2" pinfunction="C1" pintype="passive"/>
+      <node ref="R149" pin="1" pintype="passive"/>
       <node ref="R150" pin="1" pintype="passive"/>
     </net>
-    <net code="84" name="Net-(Q108B1001-Pad2)">
-      <node ref="Q108B1001" pin="2" pinfunction="C" pintype="passive"/>
+    <net code="89" name="Net-(Q108-Pad4)">
+      <node ref="Q108" pin="4" pinfunction="C2" pintype="passive"/>
       <node ref="R148" pin="2" pintype="passive"/>
     </net>
-    <net code="85" name="Net-(R101-Pad1)">
-      <node ref="R101" pin="1" pintype="passive"/>
-      <node ref="R102" pin="2" pintype="passive"/>
+    <net code="90" name="Net-(R101-Pad2)">
+      <node ref="R101" pin="2" pintype="passive"/>
+      <node ref="R102" pin="1" pintype="passive"/>
       <node ref="U101" pin="5" pinfunction="+" pintype="input"/>
     </net>
-    <net code="86" name="Net-(R106-Pad2)">
-      <node ref="R106" pin="2" pintype="passive"/>
+    <net code="91" name="Net-(R106-Pad1)">
+      <node ref="R106" pin="1" pintype="passive"/>
       <node ref="U102" pin="5" pinfunction="+" pintype="input"/>
     </net>
-    <net code="87" name="Net-(R109-Pad1)">
-      <node ref="R109" pin="1" pintype="passive"/>
+    <net code="92" name="Net-(R109-Pad2)">
+      <node ref="R109" pin="2" pintype="passive"/>
       <node ref="RV103" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="88" name="Net-(R114-Pad1)">
-      <node ref="R114" pin="1" pintype="passive"/>
+    <net code="93" name="Net-(R114-Pad2)">
+      <node ref="R114" pin="2" pintype="passive"/>
       <node ref="RV102" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="89" name="Net-(R115-Pad2)">
-      <node ref="R115" pin="2" pintype="passive"/>
+    <net code="94" name="Net-(R115-Pad1)">
+      <node ref="R115" pin="1" pintype="passive"/>
       <node ref="RV102" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="90" name="Net-(R120-Pad2)">
-      <node ref="R120" pin="2" pintype="passive"/>
+    <net code="95" name="Net-(R120-Pad1)">
+      <node ref="R120" pin="1" pintype="passive"/>
       <node ref="U102" pin="3" pinfunction="+" pintype="input"/>
     </net>
-    <net code="91" name="Net-(R133-Pad1)">
-      <node ref="C121" pin="2" pintype="passive"/>
-      <node ref="D103" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="R133" pin="1" pintype="passive"/>
+    <net code="96" name="Net-(R130-Pad1)">
+      <node ref="R130" pin="1" pintype="passive"/>
+      <node ref="U101" pin="3" pinfunction="+" pintype="input"/>
     </net>
-    <net code="92" name="Net-(R138-Pad1)">
+    <net code="97" name="Net-(R138-Pad1)">
       <node ref="R138" pin="1" pintype="passive"/>
       <node ref="R139" pin="1" pintype="passive"/>
-      <node ref="R140" pin="2" pintype="passive"/>
+      <node ref="R140" pin="1" pintype="passive"/>
     </net>
-    <net code="93" name="Net-(R141-Pad1)">
-      <node ref="JP11" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="R141" pin="1" pintype="passive"/>
-    </net>
-    <net code="94" name="Net-(R144-Pad1)">
-      <node ref="D105" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R144" pin="1" pintype="passive"/>
-    </net>
-    <net code="95" name="Net-(R151-Pad1)">
+    <net code="98" name="Net-(R151-Pad1)">
       <node ref="R151" pin="1" pintype="passive"/>
       <node ref="RV101" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="96" name="Net-(R152-Pad1)">
+    <net code="99" name="Net-(R152-Pad1)">
       <node ref="R152" pin="1" pintype="passive"/>
       <node ref="RV101" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="97" name="Net-(R155-Pad2)">
-      <node ref="R155" pin="2" pintype="passive"/>
-      <node ref="R156" pin="1" pintype="passive"/>
+    <net code="100" name="Net-(R155-Pad1)">
+      <node ref="R155" pin="1" pintype="passive"/>
+      <node ref="R156" pin="2" pintype="passive"/>
       <node ref="U103" pin="3" pinfunction="+" pintype="input"/>
     </net>
-    <net code="98" name="Net-(R202-Pad2)">
-      <node ref="C202" pin="1" pintype="passive"/>
-      <node ref="Q105" pin="2" pinfunction="C" pintype="passive"/>
-      <node ref="Q106" pin="3" pinfunction="B" pintype="input"/>
-      <node ref="R133" pin="2" pintype="passive"/>
-      <node ref="R134" pin="1" pintype="passive"/>
-      <node ref="R202" pin="2" pintype="passive"/>
-    </net>
-    <net code="99" name="Net-(U101-Pad3)">
-      <node ref="R1001" pin="2" pintype="passive"/>
-      <node ref="U101" pin="3" pinfunction="+" pintype="input"/>
-    </net>
-    <net code="100" name="Net-(U104-Pad2)">
+    <net code="101" name="Net-(U104-Pad2)">
       <node ref="U104" pin="2" pinfunction="CP1" pintype="input"/>
       <node ref="U105" pin="2" pinfunction="CP1" pintype="output"/>
     </net>
-    <net code="101" name="unconnected-(RV1-Pad3)">
+    <net code="102" name="unconnected-(RV1-Pad3)">
       <node ref="RV1" pin="3" pinfunction="3" pintype="passive+no_connect"/>
     </net>
-    <net code="102" name="unconnected-(U105-Pad6)">
+    <net code="103" name="unconnected-(U105-Pad6)">
       <node ref="U105" pin="6" pinfunction="OX2" pintype="input+no_connect"/>
     </net>
   </nets>
