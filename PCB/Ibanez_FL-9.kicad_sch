@@ -6,7 +6,7 @@
 
   (title_block
     (title "Ibanez_FL-9_Flanger_Pedal MP-FL0601")
-    (date "2022-11-24")
+    (date "2022-11-25")
     (rev "v02")
     (company "Cedar Grove Studios")
     (comment 1 "MP-FL0601")
@@ -6514,11 +6514,11 @@
     (pin "2" (uuid 8fc3f846-f2bb-48e0-90fd-271236dcaacb))
   )
 
-  (symbol (lib_id "Device:R_Small") (at 114.3 131.445 270) (unit 1)
+  (symbol (lib_id "Device:R_Small") (at 114.3 131.445 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7bfa1074-1ea6-4902-8bb0-41a12a76c72f)
-    (property "Reference" "R153" (id 0) (at 114.3 127 90))
-    (property "Value" "200K" (id 1) (at 114.3 128.905 90))
+    (property "Reference" "R153" (id 0) (at 114.935 127.635 90))
+    (property "Value" "200K" (id 1) (at 114.935 129.54 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" (id 2) (at 114.3 131.445 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7865,7 +7865,7 @@
   (symbol (lib_id "Device:CP1_Small") (at 120.65 135.89 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d1d8c804-82a8-4d66-8de0-b275f8034f82)
-    (property "Reference" "C128" (id 0) (at 113.03 135.89 0)
+    (property "Reference" "C128" (id 0) (at 113.665 135.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22uf/10v TAN" (id 1) (at 111.125 137.795 0)
