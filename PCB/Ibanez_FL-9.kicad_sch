@@ -6,7 +6,7 @@
 
   (title_block
     (title "Ibanez_FL-9_Flanger_Pedal MP-FL0601")
-    (date "2022-11-25")
+    (date "2022-11-26")
     (rev "v02")
     (company "Cedar Grove Studios")
     (comment 1 "MP-FL0601")
@@ -4968,7 +4968,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 92.71 85.725 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 156cc437-73f9-4b3d-899d-c1d51a8c376d)
-    (property "Reference" "U103" (id 0) (at 90.17 92.075 0))
+    (property "Reference" "IC103" (id 0) (at 90.17 92.075 0))
     (property "Value" "TL022" (id 1) (at 90.17 93.98 0))
     (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 92.71 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5343,7 +5343,7 @@
   (symbol (lib_id "Timer:MN3102") (at 170.18 81.915 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2b37b547-d985-4bb1-95e9-f10600c4d410)
-    (property "Reference" "U105" (id 0) (at 177.8 92.71 0)
+    (property "Reference" "IC105" (id 0) (at 177.8 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MN3102" (id 1) (at 177.8 94.615 0)
@@ -7501,7 +7501,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 98.425 46.355 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid bfe8d056-0a28-4d98-90fb-99d88dacefd2)
-    (property "Reference" "U102" (id 0) (at 103.505 48.895 0))
+    (property "Reference" "IC102" (id 0) (at 103.505 48.895 0))
     (property "Value" "TL022" (id 1) (at 103.505 50.8 0))
     (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 98.425 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8029,7 +8029,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 319.405 43.815 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid deeba859-c930-4a16-bb4d-94b435567fd8)
-    (property "Reference" "U101" (id 0) (at 324.485 46.355 0))
+    (property "Reference" "IC101" (id 0) (at 324.485 46.355 0))
     (property "Value" "TL022" (id 1) (at 324.485 48.26 0))
     (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 319.405 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8162,7 +8162,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 64.77 85.09 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid e7d51f6e-827f-46b1-9000-d82927f2da13)
-    (property "Reference" "U103" (id 0) (at 67.945 88.9 0))
+    (property "Reference" "IC103" (id 0) (at 67.945 88.9 0))
     (property "Value" "TL022" (id 1) (at 67.945 90.805 0))
     (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 64.77 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8242,7 +8242,7 @@
   (symbol (lib_id "Regulator_Linear:LM78L05_TO92") (at 130.175 167.005 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e92869d9-a188-4eb9-8392-4ed107683702)
-    (property "Reference" "U106" (id 0) (at 130.175 161.925 0))
+    (property "Reference" "IC106" (id 0) (at 130.175 161.925 0))
     (property "Value" "LM78L05_TO92" (id 1) (at 130.175 163.9086 0))
     (property "Footprint" "Package_TO_SOT_THT:TO-92" (id 2) (at 130.175 161.29 0)
       (effects (font (size 1.27 1.27) italic) hide)
@@ -8283,7 +8283,7 @@
   (symbol (lib_id "Audio:MN3207") (at 170.18 52.705 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ed34a539-454e-41b2-957f-a6259baf48fe)
-    (property "Reference" "U104" (id 0) (at 176.53 41.91 0)
+    (property "Reference" "IC104" (id 0) (at 176.53 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MN3207" (id 1) (at 176.53 43.815 0)
@@ -8533,7 +8533,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 64.135 43.815 0) (mirror x) (unit 2)
     (in_bom yes) (on_board yes)
     (uuid f76cbbe5-85eb-46c7-823a-15d6d832a075)
-    (property "Reference" "U101" (id 0) (at 68.58 46.99 0))
+    (property "Reference" "IC101" (id 0) (at 68.58 46.99 0))
     (property "Value" "TL022" (id 1) (at 68.58 48.895 0))
     (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 64.135 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8590,7 +8590,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 225.425 52.705 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fc8ffd4f-592d-4600-af07-01b564606849)
-    (property "Reference" "U102" (id 0) (at 230.505 55.245 0))
+    (property "Reference" "IC102" (id 0) (at 230.505 55.245 0))
     (property "Value" "TL022" (id 1) (at 230.505 57.15 0))
     (property "Footprint" "Package_DIP:DIP-8_W7.62mm" (id 2) (at 225.425 52.705 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8994,6 +8994,33 @@
     (path "/0843c7fc-de17-4afb-ad77-7262e30f9b99"
       (reference "D107") (unit 1) (value "1N4148") (footprint "Diode_THT:D_T-1_P2.54mm_Vertical_KathodeUp")
     )
+    (path "/deeba859-c930-4a16-bb4d-94b435567fd8"
+      (reference "IC101") (unit 1) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/f76cbbe5-85eb-46c7-823a-15d6d832a075"
+      (reference "IC101") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/fc8ffd4f-592d-4600-af07-01b564606849"
+      (reference "IC102") (unit 1) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/bfe8d056-0a28-4d98-90fb-99d88dacefd2"
+      (reference "IC102") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/156cc437-73f9-4b3d-899d-c1d51a8c376d"
+      (reference "IC103") (unit 1) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/e7d51f6e-827f-46b1-9000-d82927f2da13"
+      (reference "IC103") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/ed34a539-454e-41b2-957f-a6259baf48fe"
+      (reference "IC104") (unit 1) (value "MN3207") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/2b37b547-d985-4bb1-95e9-f10600c4d410"
+      (reference "IC105") (unit 1) (value "MN3102") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/e92869d9-a188-4eb9-8392-4ed107683702"
+      (reference "IC106") (unit 1) (value "LM78L05_TO92") (footprint "Package_TO_SOT_THT:TO-92")
+    )
     (path "/71be4c6e-79e7-4078-aa44-d0f9f3717533"
       (reference "J1") (unit 1) (value "INPUT") (footprint "")
     )
@@ -9297,41 +9324,14 @@
     (path "/a4be44f7-0b88-4265-add8-e383591a18ce"
       (reference "SW1") (unit 1) (value "NORMAL/EFFECT") (footprint "")
     )
-    (path "/deeba859-c930-4a16-bb4d-94b435567fd8"
-      (reference "U101") (unit 1) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/f76cbbe5-85eb-46c7-823a-15d6d832a075"
-      (reference "U101") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
     (path "/c0238134-b46d-42a1-9fdb-86790b8a110e"
       (reference "U101") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/fc8ffd4f-592d-4600-af07-01b564606849"
-      (reference "U102") (unit 1) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/bfe8d056-0a28-4d98-90fb-99d88dacefd2"
-      (reference "U102") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/37322642-a9e8-4b7a-994e-382297571ca4"
       (reference "U102") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
-    (path "/156cc437-73f9-4b3d-899d-c1d51a8c376d"
-      (reference "U103") (unit 1) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/e7d51f6e-827f-46b1-9000-d82927f2da13"
-      (reference "U103") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
     (path "/80bbc5b6-fa99-4be6-8706-175bfe844748"
       (reference "U103") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/ed34a539-454e-41b2-957f-a6259baf48fe"
-      (reference "U104") (unit 1) (value "MN3207") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/2b37b547-d985-4bb1-95e9-f10600c4d410"
-      (reference "U105") (unit 1) (value "MN3102") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/e92869d9-a188-4eb9-8392-4ed107683702"
-      (reference "U106") (unit 1) (value "LM78L05_TO92") (footprint "Package_TO_SOT_THT:TO-92")
     )
   )
 )
