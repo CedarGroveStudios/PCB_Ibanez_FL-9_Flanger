@@ -77075,7 +77075,7 @@
   (gr_text "CP2\n+4.5V" (at 223.6 94) (layer "B.SilkS") (tstamp 170e68af-8e9b-4822-824a-a1b9d39d6c7f)
     (effects (font (size 0.5 0.5) (thickness 0.1)) (justify right mirror))
   )
-  (gr_text "IBANEZ FL9 FLANGER 1985" (at 205 116.5) (layer "B.SilkS") (tstamp 2205e963-5e0e-49fa-9755-7dc8318f96d0)
+  (gr_text "IBANEZ FL9 FLANGER 1982" (at 205 116.5) (layer "B.SilkS") (tstamp 2205e963-5e0e-49fa-9755-7dc8318f96d0)
     (effects (font (size 0.7 0.7) (thickness 0.14)) (justify mirror))
   )
   (gr_text "CP14" (at 203.8 80.3) (layer "B.SilkS") (tstamp 281038a1-d490-440b-8aa4-312df3eef7d7)
@@ -77198,7 +77198,7 @@
   (gr_text "CP2\n+4.5V" (at 225.7 94) (layer "F.SilkS") (tstamp f63f9169-6be7-474e-910e-7595dfe34053)
     (effects (font (size 0.5 0.5) (thickness 0.1)) (justify right))
   )
-  (gr_text "IBANEZ FL9 FLANGER 1985" (at 239 55 90) (layer "F.SilkS") (tstamp facc4ac9-5560-4179-ba0f-e37ab6e6ead3)
+  (gr_text "IBANEZ FL9 FLANGER 1982" (at 239 55 90) (layer "F.SilkS") (tstamp facc4ac9-5560-4179-ba0f-e37ab6e6ead3)
     (effects (font (size 0.7 0.7) (thickness 0.14)))
   )
 
