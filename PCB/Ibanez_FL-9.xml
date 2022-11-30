@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/Users/cedargrove/Documents/GitHub/PCB_Ibanez_FL-9_Flanger/PCB/Ibanez_FL-9.kicad_sch</source>
-    <date>Wednesday, November 23, 2022 at 09:24:03 PM</date>
+    <date>Tuesday, November 29, 2022 at 03:07:29 PM</date>
     <tool>Eeschema (6.0.0-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Ibanez_FL-9_Flanger_Pedal MP-FL0601</title>
         <company>Cedar Grove Studios</company>
-        <rev>v01</rev>
-        <date>2022-11-23</date>
+        <rev>1.0.0</rev>
+        <date>2022-11-29</date>
         <source>Ibanez_FL-9.kicad_sch</source>
         <comment number="1" value="MP-FL0601"/>
         <comment number="2" value=""/>
@@ -38,7 +38,7 @@
     </comp>
     <comp ref="C101">
       <value>0.047uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.2mm_W3.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2</footprint>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -64,7 +64,7 @@
     </comp>
     <comp ref="C103">
       <value>0.022uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -77,7 +77,7 @@
     </comp>
     <comp ref="C104">
       <value>0.047uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -90,7 +90,7 @@
     </comp>
     <comp ref="C105">
       <value>0.004uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -103,7 +103,7 @@
     </comp>
     <comp ref="C106">
       <value>0.01uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -129,7 +129,7 @@
     </comp>
     <comp ref="C108">
       <value>0.033uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -168,7 +168,7 @@
     </comp>
     <comp ref="C111">
       <value>0.0015uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -181,7 +181,7 @@
     </comp>
     <comp ref="C112">
       <value>0.001uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -194,7 +194,7 @@
     </comp>
     <comp ref="C113">
       <value>0.003uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -233,7 +233,7 @@
     </comp>
     <comp ref="C116">
       <value>0.22uf/50v</value>
-      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</footprint>
       <fields>
         <field name="Description">AL POLARIZED</field>
       </fields>
@@ -272,7 +272,7 @@
     </comp>
     <comp ref="C119">
       <value>0.004 FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -285,7 +285,7 @@
     </comp>
     <comp ref="C120">
       <value>10uf/16v</value>
-      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</footprint>
       <fields>
         <field name="Description">AL POLARIZED</field>
       </fields>
@@ -298,7 +298,7 @@
     </comp>
     <comp ref="C121">
       <value>0.047uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -402,7 +402,7 @@
     </comp>
     <comp ref="C129">
       <value>0.01uf FILM</value>
-      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <footprint>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</footprint>
       <fields>
         <field name="Description">FILM</field>
       </fields>
@@ -415,20 +415,7 @@
     </comp>
     <comp ref="C130">
       <value>47uf/10v</value>
-      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
-      <fields>
-        <field name="Description">AL POLARIZED</field>
-      </fields>
-      <libsource lib="Device" part="CP1_Small" description=""/>
-      <property name="Description" value="AL POLARIZED"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>ceb102cc-3ba5-4606-8546-7fdf8aacec5f</tstamps>
-    </comp>
-    <comp ref="C131">
-      <value>47uf/10v</value>
-      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</footprint>
       <fields>
         <field name="Description">AL POLARIZED</field>
       </fields>
@@ -438,6 +425,19 @@
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5ab22acf-94c3-4d44-bf95-a6fe256c130d</tstamps>
+    </comp>
+    <comp ref="C131">
+      <value>47uf/10v</value>
+      <footprint>Capacitor_THT:CP_Radial_D4.0mm_P2.00mm</footprint>
+      <fields>
+        <field name="Description">AL POLARIZED</field>
+      </fields>
+      <libsource lib="Device" part="CP1_Small" description=""/>
+      <property name="Description" value="AL POLARIZED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceb102cc-3ba5-4606-8546-7fdf8aacec5f</tstamps>
     </comp>
     <comp ref="C132">
       <value>47uf/6.3v</value>
@@ -626,6 +626,90 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0843c7fc-de17-4afb-ad77-7262e30f9b99</tstamps>
     </comp>
+    <comp ref="IC101">
+      <value>TL022</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Description">OPERATIONAL AMPLIFIER</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Description" value="OPERATIONAL AMPLIFIER"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f76cbbe5-85eb-46c7-823a-15d6d832a075 deeba859-c930-4a16-bb4d-94b435567fd8</tstamps>
+    </comp>
+    <comp ref="IC102">
+      <value>TL022</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Description">OPERATIONAL AMPLIFIER</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Description" value="OPERATIONAL AMPLIFIER"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc8ffd4f-592d-4600-af07-01b564606849 bfe8d056-0a28-4d98-90fb-99d88dacefd2</tstamps>
+    </comp>
+    <comp ref="IC103">
+      <value>TL022</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <fields>
+        <field name="Description">OPERATIONAL AMPLIFIER</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Description" value="OPERATIONAL AMPLIFIER"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7d51f6e-827f-46b1-9000-d82927f2da13 156cc437-73f9-4b3d-899d-c1d51a8c376d</tstamps>
+    </comp>
+    <comp ref="IC104">
+      <value>MN3207</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.experimentalistsanonymous.com/diy/Datasheets/MN3207.pdf</datasheet>
+      <fields>
+        <field name="Description">BUCKET BRIGADE DELAY, 1024 STAGE</field>
+      </fields>
+      <libsource lib="Audio" part="MN3207" description="1024-STAGE LOW VOLTAGE OPERATION LOW NOISE BBD (bucket brigade device), delay time 2.56ms to 51.2ms, S/N 73dB, clock frequency range 10KHz to 200KHz"/>
+      <property name="Description" value="BUCKET BRIGADE DELAY, 1024 STAGE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed34a539-454e-41b2-957f-a6259baf48fe</tstamps>
+    </comp>
+    <comp ref="IC105">
+      <value>MN3102</value>
+      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
+      <datasheet>http://www.experimentalistsanonymous.com/diy/Datasheets/MN3102.pdf</datasheet>
+      <fields>
+        <field name="Description">CLOCK GENERATOR</field>
+      </fields>
+      <libsource lib="Timer" part="MN3102" description="Clock Generator Driver/Driver for MN3000 Series BBD (bucket brigade device), 4V to 10V, DIP-8"/>
+      <property name="Description" value="CLOCK GENERATOR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b37b547-d985-4bb1-95e9-f10600c4d410</tstamps>
+    </comp>
+    <comp ref="IC106">
+      <value>LM78L05_TO92</value>
+      <footprint>Package_TO_SOT_THT:TO-92</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/MC78L06A-D.pdf</datasheet>
+      <fields>
+        <field name="Description">VOLTAGE REGULATOR, 5 VOLTS</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LM78L05_TO92" description="Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92"/>
+      <property name="Description" value="VOLTAGE REGULATOR, 5 VOLTS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e92869d9-a188-4eb9-8392-4ed107683702</tstamps>
+    </comp>
     <comp ref="J1">
       <value>INPUT</value>
       <fields>
@@ -810,11 +894,11 @@
     <comp ref="Q101">
       <value>2SC2458GR</value>
       <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <datasheet>http://www.st.com/resource/en/datasheet/2sd1047.pdf</datasheet>
       <fields>
         <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
       </fields>
-      <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <libsource lib="Transistor_BJT" part="2SD1047" description="12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB"/>
       <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -824,11 +908,11 @@
     <comp ref="Q102">
       <value>2SC2458GR</value>
       <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <datasheet>http://www.st.com/resource/en/datasheet/2sd1047.pdf</datasheet>
       <fields>
         <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
       </fields>
-      <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <libsource lib="Transistor_BJT" part="2SD1047" description="12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB"/>
       <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -851,11 +935,11 @@
     <comp ref="Q104">
       <value>2SC2458GR</value>
       <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <datasheet>http://www.st.com/resource/en/datasheet/2sd1047.pdf</datasheet>
       <fields>
         <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
       </fields>
-      <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <libsource lib="Transistor_BJT" part="2SD1047" description="12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB"/>
       <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -865,11 +949,11 @@
     <comp ref="Q105">
       <value>2SC2458GR</value>
       <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <datasheet>http://www.st.com/resource/en/datasheet/2sd1047.pdf</datasheet>
       <fields>
         <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
       </fields>
-      <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <libsource lib="Transistor_BJT" part="2SD1047" description="12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB"/>
       <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -879,11 +963,11 @@
     <comp ref="Q106">
       <value>2SC2458GR</value>
       <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <datasheet>http://www.st.com/resource/en/datasheet/2sd1047.pdf</datasheet>
       <fields>
         <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
       </fields>
-      <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <libsource lib="Transistor_BJT" part="2SD1047" description="12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB"/>
       <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -920,11 +1004,11 @@
     <comp ref="Q109">
       <value>2SC2458GR</value>
       <footprint>Package_TO_SOT_THT:TO-92Flat</footprint>
-      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</datasheet>
+      <datasheet>http://www.st.com/resource/en/datasheet/2sd1047.pdf</datasheet>
       <fields>
         <field name="Description">NPN BIPOLAR JUNCTION TRANSISTOR (BJT)</field>
       </fields>
-      <libsource lib="Transistor_BJT" part="2SC1815" description="0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92"/>
+      <libsource lib="Transistor_BJT" part="2SD1047" description="12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB"/>
       <property name="Description" value="NPN BIPOLAR JUNCTION TRANSISTOR (BJT)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
@@ -1887,7 +1971,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f76cbbe5-85eb-46c7-823a-15d6d832a075 deeba859-c930-4a16-bb4d-94b435567fd8 c0238134-b46d-42a1-9fdb-86790b8a110e</tstamps>
+      <tstamps>c0238134-b46d-42a1-9fdb-86790b8a110e</tstamps>
     </comp>
     <comp ref="U102">
       <value>TL022</value>
@@ -1901,7 +1985,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>bfe8d056-0a28-4d98-90fb-99d88dacefd2 fc8ffd4f-592d-4600-af07-01b564606849 37322642-a9e8-4b7a-994e-382297571ca4</tstamps>
+      <tstamps>37322642-a9e8-4b7a-994e-382297571ca4</tstamps>
     </comp>
     <comp ref="U103">
       <value>TL022</value>
@@ -1915,49 +1999,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>e7d51f6e-827f-46b1-9000-d82927f2da13 80bbc5b6-fa99-4be6-8706-175bfe844748 156cc437-73f9-4b3d-899d-c1d51a8c376d</tstamps>
-    </comp>
-    <comp ref="U104">
-      <value>MN3207</value>
-      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
-      <datasheet>http://www.experimentalistsanonymous.com/diy/Datasheets/MN3207.pdf</datasheet>
-      <fields>
-        <field name="Description">BUCKET BRIGADE DELAY, 1024 STAGE</field>
-      </fields>
-      <libsource lib="Audio" part="MN3207" description="1024-STAGE LOW VOLTAGE OPERATION LOW NOISE BBD (bucket brigade device), delay time 2.56ms to 51.2ms, S/N 73dB, clock frequency range 10KHz to 200KHz"/>
-      <property name="Description" value="BUCKET BRIGADE DELAY, 1024 STAGE"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>ed34a539-454e-41b2-957f-a6259baf48fe</tstamps>
-    </comp>
-    <comp ref="U105">
-      <value>MN3102</value>
-      <footprint>Package_DIP:DIP-8_W7.62mm</footprint>
-      <datasheet>http://www.experimentalistsanonymous.com/diy/Datasheets/MN3102.pdf</datasheet>
-      <fields>
-        <field name="Description">CLOCK GENERATOR</field>
-      </fields>
-      <libsource lib="Timer" part="MN3102" description="Clock Generator Driver/Driver for MN3000 Series BBD (bucket brigade device), 4V to 10V, DIP-8"/>
-      <property name="Description" value="CLOCK GENERATOR"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2b37b547-d985-4bb1-95e9-f10600c4d410</tstamps>
-    </comp>
-    <comp ref="U106">
-      <value>LM78L05_TO92</value>
-      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
-      <datasheet>https://www.onsemi.com/pub/Collateral/MC78L06A-D.pdf</datasheet>
-      <fields>
-        <field name="Description">VOLTAGE REGULATOR, 5 VOLTS</field>
-      </fields>
-      <libsource lib="Regulator_Linear" part="LM78L05_TO92" description="Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92"/>
-      <property name="Description" value="VOLTAGE REGULATOR, 5 VOLTS"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="Ibanez_FL-9.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>e92869d9-a188-4eb9-8392-4ed107683702</tstamps>
+      <tstamps>80bbc5b6-fa99-4be6-8706-175bfe844748</tstamps>
     </comp>
   </components>
   <libparts>
@@ -2417,22 +2459,22 @@
         <pin num="3" name="B" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="Transistor_BJT" part="2SC1815">
-      <description>0.15A Ic, 50V Vce, Low Noise Audio NPN Transistor, TO-92</description>
-      <docs>https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</docs>
+    <libpart lib="Transistor_BJT" part="2SD1047">
+      <description>12A Ic, 140V Vce, Silicon Power NPN Transistors, TO-3PB</description>
+      <docs>http://www.st.com/resource/en/datasheet/2sd1047.pdf</docs>
       <footprints>
-        <fp>TO?92*</fp>
+        <fp>TO?3PB*</fp>
       </footprints>
       <fields>
         <field name="Reference">Q</field>
-        <field name="Value">2SC1815</field>
-        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
-        <field name="Datasheet">https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SC1815.pdf</field>
+        <field name="Value">2SD1047</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-3PB-3_Vertical</field>
+        <field name="Datasheet">http://www.st.com/resource/en/datasheet/2sd1047.pdf</field>
       </fields>
       <pins>
-        <pin num="1" name="E" type="passive"/>
+        <pin num="1" name="B" type="input"/>
         <pin num="2" name="C" type="passive"/>
-        <pin num="3" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
       </pins>
     </libpart>
   </libparts>
@@ -2474,6 +2516,9 @@
   <nets>
     <net code="1" name="+5V">
       <node ref="C134" pin="1" pintype="passive"/>
+      <node ref="IC104" pin="5" pinfunction="VDD" pintype="power_in"/>
+      <node ref="IC105" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="IC106" pin="1" pinfunction="VO" pintype="power_out"/>
       <node ref="JP15" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="Q107" pin="1" pinfunction="E" pintype="passive"/>
       <node ref="Q109" pin="2" pinfunction="C" pintype="passive"/>
@@ -2484,21 +2529,18 @@
       <node ref="R158" pin="2" pintype="passive"/>
       <node ref="R161" pin="2" pintype="passive"/>
       <node ref="U103" pin="8" pinfunction="V+" pintype="power_in"/>
-      <node ref="U104" pin="5" pinfunction="VDD" pintype="power_in"/>
-      <node ref="U105" pin="1" pinfunction="VDD" pintype="power_in"/>
-      <node ref="U106" pin="1" pinfunction="VO" pintype="power_out"/>
     </net>
     <net code="2" name="+9V">
       <node ref="C133" pin="1" pintype="passive"/>
       <node ref="D106" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC106" pin="3" pinfunction="VI" pintype="power_in"/>
       <node ref="J3" pin="2" pintype="passive"/>
       <node ref="R134" pin="1" pintype="passive"/>
       <node ref="R135" pin="1" pintype="passive"/>
       <node ref="R139" pin="2" pintype="passive"/>
-      <node ref="R163" pin="2" pintype="passive"/>
+      <node ref="R163" pin="1" pintype="passive"/>
       <node ref="U101" pin="8" pinfunction="V+" pintype="power_in"/>
       <node ref="U102" pin="8" pinfunction="V+" pintype="power_in"/>
-      <node ref="U106" pin="3" pinfunction="VI" pintype="power_in"/>
     </net>
     <net code="3" name="/4.5v">
       <node ref="C105" pin="1" pintype="passive"/>
@@ -2511,59 +2553,59 @@
       <node ref="R124" pin="1" pintype="passive"/>
       <node ref="R125" pin="1" pintype="passive"/>
       <node ref="R130" pin="2" pintype="passive"/>
-      <node ref="R163" pin="1" pintype="passive"/>
+      <node ref="R163" pin="2" pintype="passive"/>
       <node ref="R164" pin="2" pintype="passive"/>
     </net>
     <net code="4" name="/CP1">
-      <node ref="U104" pin="6" pinfunction="CP2" pintype="input"/>
-      <node ref="U105" pin="4" pinfunction="CP2" pintype="output"/>
+      <node ref="IC104" pin="6" pinfunction="CP2" pintype="input"/>
+      <node ref="IC105" pin="4" pinfunction="CP2" pintype="output"/>
     </net>
     <net code="5" name="/CP4">
       <node ref="C102" pin="2" pintype="passive"/>
+      <node ref="IC101" pin="7" pintype="output"/>
       <node ref="R103" pin="2" pintype="passive"/>
       <node ref="R105" pin="1" pintype="passive"/>
       <node ref="R127" pin="1" pintype="passive"/>
-      <node ref="U101" pin="7" pintype="output"/>
     </net>
     <net code="6" name="/CP5">
       <node ref="D101" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D102" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R107" pin="1" pintype="passive"/>
+      <node ref="IC102" pin="7" pintype="output"/>
+      <node ref="R107" pin="2" pintype="passive"/>
       <node ref="R110" pin="1" pintype="passive"/>
-      <node ref="U102" pin="7" pintype="output"/>
     </net>
     <net code="7" name="/CP6">
       <node ref="C106" pin="2" pintype="passive"/>
       <node ref="C108" pin="1" pintype="passive"/>
-      <node ref="Q101" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q101" pin="3" pinfunction="E" pintype="passive"/>
       <node ref="R112" pin="2" pintype="passive"/>
     </net>
     <net code="8" name="/CP7">
       <node ref="C110" pin="1" pintype="passive"/>
-      <node ref="R116" pin="2" pintype="passive"/>
-      <node ref="U104" pin="7" pinfunction="OUT1" pintype="output"/>
-      <node ref="U104" pin="8" pinfunction="OUT2" pintype="output"/>
+      <node ref="IC104" pin="7" pinfunction="OUT1" pintype="output"/>
+      <node ref="IC104" pin="8" pinfunction="OUT2" pintype="output"/>
+      <node ref="R116" pin="1" pintype="passive"/>
     </net>
     <net code="9" name="/CP8">
       <node ref="JP14" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="R153" pin="2" pintype="passive"/>
+      <node ref="R153" pin="1" pintype="passive"/>
     </net>
     <net code="10" name="/CP9">
       <node ref="C126" pin="2" pintype="passive"/>
+      <node ref="IC105" pin="7" pinfunction="OX1" pintype="input"/>
       <node ref="R145" pin="1" pintype="passive"/>
-      <node ref="U105" pin="7" pinfunction="OX1" pintype="input"/>
     </net>
     <net code="11" name="/CP11">
       <node ref="C112" pin="2" pintype="passive"/>
+      <node ref="IC102" pin="1" pintype="output"/>
       <node ref="R119" pin="1" pintype="passive"/>
       <node ref="R121" pin="2" pintype="passive"/>
-      <node ref="U102" pin="1" pintype="output"/>
     </net>
     <net code="12" name="/CP12">
       <node ref="C113" pin="2" pintype="passive"/>
       <node ref="C115" pin="1" pintype="passive"/>
-      <node ref="Q102" pin="1" pinfunction="E" pintype="passive"/>
-      <node ref="R123" pin="1" pintype="passive"/>
+      <node ref="Q102" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R123" pin="2" pintype="passive"/>
     </net>
     <net code="13" name="/CP13">
       <node ref="C116" pin="1" pintype="passive"/>
@@ -2580,8 +2622,8 @@
       <node ref="C118" pin="2" pintype="passive"/>
       <node ref="C119" pin="2" pintype="passive"/>
       <node ref="C120" pin="1" pintype="passive"/>
+      <node ref="IC101" pin="1" pintype="output"/>
       <node ref="R129" pin="2" pintype="passive"/>
-      <node ref="U101" pin="1" pintype="output"/>
     </net>
     <net code="16" name="GND">
       <node ref="C107" pin="1" pintype="passive"/>
@@ -2598,6 +2640,9 @@
       <node ref="C135" pin="2" pintype="passive"/>
       <node ref="D106" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D107" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC104" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC105" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC106" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="J1" pin="S" pintype="passive"/>
       <node ref="J2" pin="S" pintype="passive"/>
       <node ref="J3" pin="1" pintype="passive"/>
@@ -2605,14 +2650,14 @@
       <node ref="Q108" pin="3" pinfunction="E" pintype="passive"/>
       <node ref="R112" pin="1" pintype="passive"/>
       <node ref="R115" pin="2" pintype="passive"/>
-      <node ref="R116" pin="1" pintype="passive"/>
-      <node ref="R123" pin="2" pintype="passive"/>
+      <node ref="R116" pin="2" pintype="passive"/>
+      <node ref="R123" pin="1" pintype="passive"/>
       <node ref="R132" pin="1" pintype="passive"/>
       <node ref="R136" pin="1" pintype="passive"/>
       <node ref="R137" pin="1" pintype="passive"/>
       <node ref="R140" pin="2" pintype="passive"/>
       <node ref="R142" pin="1" pintype="passive"/>
-      <node ref="R159" pin="1" pintype="passive"/>
+      <node ref="R159" pin="2" pintype="passive"/>
       <node ref="R162" pin="1" pintype="passive"/>
       <node ref="R164" pin="1" pintype="passive"/>
       <node ref="R165" pin="1" pintype="passive"/>
@@ -2622,9 +2667,6 @@
       <node ref="U101" pin="4" pinfunction="V-" pintype="power_in"/>
       <node ref="U102" pin="4" pinfunction="V-" pintype="power_in"/>
       <node ref="U103" pin="4" pinfunction="V-" pintype="power_in"/>
-      <node ref="U104" pin="1" pinfunction="GND" pintype="power_in"/>
-      <node ref="U105" pin="3" pinfunction="GND" pintype="power_in"/>
-      <node ref="U106" pin="2" pinfunction="GND" pintype="power_in"/>
     </net>
     <net code="17" name="Net-(BT1-Pad1)">
       <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
@@ -2644,9 +2686,9 @@
     </net>
     <net code="21" name="Net-(C102-Pad1)">
       <node ref="C102" pin="1" pintype="passive"/>
+      <node ref="IC101" pin="6" pinfunction="-" pintype="input"/>
       <node ref="R103" pin="1" pintype="passive"/>
       <node ref="R104" pin="2" pintype="passive"/>
-      <node ref="U101" pin="6" pinfunction="-" pintype="input"/>
     </net>
     <net code="22" name="Net-(C103-Pad1)">
       <node ref="C103" pin="1" pintype="passive"/>
@@ -2663,10 +2705,10 @@
     </net>
     <net code="25" name="Net-(C104-Pad2)">
       <node ref="C104" pin="2" pintype="passive"/>
-      <node ref="R107" pin="2" pintype="passive"/>
+      <node ref="IC102" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="R107" pin="1" pintype="passive"/>
       <node ref="R108" pin="1" pintype="passive"/>
       <node ref="R109" pin="1" pintype="passive"/>
-      <node ref="U102" pin="6" pinfunction="-" pintype="input"/>
     </net>
     <net code="26" name="Net-(C105-Pad2)">
       <node ref="C105" pin="2" pintype="passive"/>
@@ -2679,13 +2721,13 @@
     </net>
     <net code="28" name="Net-(C107-Pad2)">
       <node ref="C107" pin="2" pintype="passive"/>
-      <node ref="Q101" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="Q101" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R111" pin="1" pintype="passive"/>
     </net>
     <net code="29" name="Net-(C108-Pad2)">
       <node ref="C108" pin="2" pintype="passive"/>
+      <node ref="IC104" pin="3" pinfunction="IN" pintype="input"/>
       <node ref="R113" pin="2" pintype="passive"/>
-      <node ref="U104" pin="3" pinfunction="IN" pintype="input"/>
     </net>
     <net code="30" name="Net-(C109-Pad1)">
       <node ref="C109" pin="1" pintype="passive"/>
@@ -2704,18 +2746,18 @@
     </net>
     <net code="33" name="Net-(C112-Pad1)">
       <node ref="C112" pin="1" pintype="passive"/>
+      <node ref="IC102" pin="2" pinfunction="-" pintype="input"/>
       <node ref="R118" pin="2" pintype="passive"/>
-      <node ref="U102" pin="2" pinfunction="-" pintype="input"/>
     </net>
     <net code="34" name="Net-(C113-Pad1)">
       <node ref="C113" pin="1" pintype="passive"/>
       <node ref="R121" pin="1" pintype="passive"/>
-      <node ref="R122" pin="2" pintype="passive"/>
+      <node ref="R122" pin="1" pintype="passive"/>
     </net>
     <net code="35" name="Net-(C114-Pad2)">
       <node ref="C114" pin="2" pintype="passive"/>
-      <node ref="Q102" pin="3" pinfunction="B" pintype="input"/>
-      <node ref="R122" pin="1" pintype="passive"/>
+      <node ref="Q102" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R122" pin="2" pintype="passive"/>
     </net>
     <net code="36" name="Net-(C115-Pad2)">
       <node ref="C115" pin="2" pintype="passive"/>
@@ -2732,11 +2774,11 @@
     </net>
     <net code="39" name="Net-(C118-Pad1)">
       <node ref="C118" pin="1" pintype="passive"/>
+      <node ref="IC101" pin="2" pinfunction="-" pintype="input"/>
       <node ref="R126" pin="1" pintype="passive"/>
       <node ref="R127" pin="2" pintype="passive"/>
       <node ref="R128" pin="2" pintype="passive"/>
       <node ref="R129" pin="1" pintype="passive"/>
-      <node ref="U101" pin="2" pinfunction="-" pintype="input"/>
     </net>
     <net code="40" name="Net-(C119-Pad1)">
       <node ref="C119" pin="1" pintype="passive"/>
@@ -2756,25 +2798,25 @@
     <net code="43" name="Net-(C122-Pad2)">
       <node ref="C122" pin="2" pintype="passive"/>
       <node ref="CR1" pin="1" pintype="passive"/>
-      <node ref="Q105" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="Q105" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R137" pin="2" pintype="passive"/>
     </net>
     <net code="44" name="Net-(C123-Pad2)">
       <node ref="C123" pin="2" pintype="passive"/>
       <node ref="CR2" pin="2" pintype="passive"/>
-      <node ref="Q104" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="Q104" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R136" pin="2" pintype="passive"/>
     </net>
     <net code="45" name="Net-(C125-Pad1)">
       <node ref="C125" pin="1" pintype="passive"/>
-      <node ref="U104" pin="4" pinfunction="VGG" pintype="power_in"/>
-      <node ref="U105" pin="8" pinfunction="VGG" pintype="power_out"/>
+      <node ref="IC104" pin="4" pinfunction="VGG" pintype="power_in"/>
+      <node ref="IC105" pin="8" pinfunction="VGG" pintype="power_out"/>
     </net>
     <net code="46" name="Net-(C126-Pad1)">
       <node ref="C126" pin="1" pintype="passive"/>
       <node ref="C127" pin="1" pintype="passive"/>
+      <node ref="IC105" pin="5" pinfunction="OX3" pintype="input"/>
       <node ref="R146" pin="1" pintype="passive"/>
-      <node ref="U105" pin="5" pinfunction="OX3" pintype="input"/>
     </net>
     <net code="47" name="Net-(C127-Pad2)">
       <node ref="C127" pin="2" pintype="passive"/>
@@ -2787,40 +2829,40 @@
       <node ref="Q108" pin="5" pinfunction="B2" pintype="input"/>
       <node ref="R149" pin="2" pintype="passive"/>
       <node ref="R151" pin="2" pintype="passive"/>
-      <node ref="R153" pin="1" pintype="passive"/>
+      <node ref="R153" pin="2" pintype="passive"/>
     </net>
     <net code="49" name="Net-(C129-Pad1)">
       <node ref="C129" pin="1" pintype="passive"/>
+      <node ref="IC103" pin="2" pinfunction="-" pintype="input"/>
       <node ref="R154" pin="1" pintype="passive"/>
-      <node ref="U103" pin="2" pinfunction="-" pintype="input"/>
     </net>
     <net code="50" name="Net-(C129-Pad2)">
       <node ref="C129" pin="2" pintype="passive"/>
+      <node ref="IC103" pin="1" pintype="output"/>
       <node ref="JP13" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="R155" pin="2" pintype="passive"/>
-      <node ref="U103" pin="1" pintype="output"/>
     </net>
     <net code="51" name="Net-(C130-Pad1)">
       <node ref="C130" pin="1" pintype="passive"/>
-      <node ref="C131" pin="1" pintype="passive"/>
+      <node ref="IC103" pin="7" pintype="output"/>
+      <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R156" pin="1" pintype="passive"/>
     </net>
     <net code="52" name="Net-(C130-Pad2)">
       <node ref="C130" pin="2" pintype="passive"/>
-      <node ref="R157" pin="1" pintype="passive"/>
-      <node ref="U103" pin="6" pinfunction="-" pintype="input"/>
-    </net>
-    <net code="53" name="Net-(C131-Pad2)">
       <node ref="C131" pin="2" pintype="passive"/>
-      <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="R156" pin="1" pintype="passive"/>
-      <node ref="U103" pin="7" pintype="output"/>
+    </net>
+    <net code="53" name="Net-(C131-Pad1)">
+      <node ref="C131" pin="1" pintype="passive"/>
+      <node ref="IC103" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="R157" pin="1" pintype="passive"/>
     </net>
     <net code="54" name="Net-(C132-Pad1)">
       <node ref="C132" pin="1" pintype="passive"/>
+      <node ref="IC103" pin="5" pinfunction="+" pintype="input"/>
       <node ref="R154" pin="2" pintype="passive"/>
       <node ref="R158" pin="1" pintype="passive"/>
-      <node ref="R159" pin="2" pintype="passive"/>
-      <node ref="U103" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="R159" pin="1" pintype="passive"/>
     </net>
     <net code="55" name="Net-(CR1-Pad2)">
       <node ref="CR1" pin="2" pintype="passive"/>
@@ -2857,9 +2899,9 @@
     </net>
     <net code="62" name="Net-(D104-Pad2)">
       <node ref="D104" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Q104" pin="1" pinfunction="E" pintype="passive"/>
-      <node ref="Q105" pin="1" pinfunction="E" pintype="passive"/>
-      <node ref="Q106" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q104" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q105" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q106" pin="3" pinfunction="E" pintype="passive"/>
     </net>
     <net code="63" name="Net-(D105-Pad1)">
       <node ref="D105" pin="1" pinfunction="K" pintype="passive"/>
@@ -2871,169 +2913,169 @@
     </net>
     <net code="65" name="Net-(D107-Pad1)">
       <node ref="D107" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="Q109" pin="3" pinfunction="B" pintype="input"/>
+      <node ref="Q109" pin="1" pinfunction="B" pintype="input"/>
       <node ref="R160" pin="1" pintype="passive"/>
       <node ref="R161" pin="1" pintype="passive"/>
       <node ref="R162" pin="2" pintype="passive"/>
     </net>
-    <net code="66" name="Net-(J1-PadT)">
+    <net code="66" name="Net-(IC101-Pad3)">
+      <node ref="IC101" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="R130" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(IC101-Pad5)">
+      <node ref="IC101" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="R101" pin="2" pintype="passive"/>
+      <node ref="R102" pin="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(IC102-Pad3)">
+      <node ref="IC102" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="R120" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(IC102-Pad5)">
+      <node ref="IC102" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="R106" pin="1" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(IC103-Pad3)">
+      <node ref="IC103" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="R155" pin="1" pintype="passive"/>
+      <node ref="R156" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(IC104-Pad2)">
+      <node ref="IC104" pin="2" pinfunction="CP1" pintype="input"/>
+      <node ref="IC105" pin="2" pinfunction="CP1" pintype="output"/>
+    </net>
+    <net code="72" name="Net-(J1-PadT)">
       <node ref="J1" pin="T" pintype="passive"/>
       <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="67" name="Net-(J2-PadT)">
+    <net code="73" name="Net-(J2-PadT)">
       <node ref="J2" pin="T" pintype="passive"/>
       <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="68" name="Net-(J3-Pad3)">
+    <net code="74" name="Net-(J3-Pad3)">
       <node ref="J3" pin="3" pintype="passive"/>
       <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="JP9" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="69" name="Net-(JP1-Pad1)">
+    <net code="75" name="Net-(JP1-Pad1)">
       <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV4" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="70" name="Net-(JP3-Pad1)">
+    <net code="76" name="Net-(JP3-Pad1)">
       <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R131" pin="2" pintype="passive"/>
       <node ref="R132" pin="2" pintype="passive"/>
     </net>
-    <net code="71" name="Net-(JP5-Pad2)">
+    <net code="77" name="Net-(JP5-Pad2)">
       <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="RV4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="72" name="Net-(JP6-Pad1)">
+    <net code="78" name="Net-(JP6-Pad1)">
       <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="73" name="Net-(JP7-Pad1)">
+    <net code="79" name="Net-(JP7-Pad1)">
       <node ref="JP7" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="74" name="Net-(JP7-Pad2)">
+    <net code="80" name="Net-(JP7-Pad2)">
       <node ref="JP7" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="R157" pin="2" pintype="passive"/>
     </net>
-    <net code="75" name="Net-(JP8-Pad1)">
+    <net code="81" name="Net-(JP8-Pad1)">
       <node ref="JP8" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="76" name="Net-(JP8-Pad2)">
+    <net code="82" name="Net-(JP8-Pad2)">
       <node ref="JP8" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="Q109" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q109" pin="3" pinfunction="E" pintype="passive"/>
       <node ref="R165" pin="2" pintype="passive"/>
     </net>
-    <net code="77" name="Net-(JP10-Pad1)">
+    <net code="83" name="Net-(JP10-Pad1)">
       <node ref="JP10" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="78" name="Net-(JP11-Pad1)">
+    <net code="84" name="Net-(JP11-Pad1)">
       <node ref="JP11" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="R141" pin="2" pintype="passive"/>
     </net>
-    <net code="79" name="Net-(JP11-Pad2)">
+    <net code="85" name="Net-(JP11-Pad2)">
       <node ref="JP11" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="80" name="Net-(JP13-Pad1)">
+    <net code="86" name="Net-(JP13-Pad1)">
       <node ref="JP13" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="81" name="Net-(JP14-Pad1)">
+    <net code="87" name="Net-(JP14-Pad1)">
       <node ref="JP14" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="82" name="Net-(JP15-Pad1)">
+    <net code="88" name="Net-(JP15-Pad1)">
       <node ref="JP15" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="83" name="Net-(JP16-Pad1)">
+    <net code="89" name="Net-(JP16-Pad1)">
       <node ref="JP16" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="84" name="Net-(JP16-Pad2)">
+    <net code="90" name="Net-(JP16-Pad2)">
       <node ref="JP16" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="R160" pin="2" pintype="passive"/>
     </net>
-    <net code="85" name="Net-(Q106-Pad2)">
+    <net code="91" name="Net-(Q106-Pad1)">
+      <node ref="Q106" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R143" pin="1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(Q106-Pad2)">
       <node ref="Q106" pin="2" pinfunction="C" pintype="passive"/>
       <node ref="R144" pin="2" pintype="passive"/>
     </net>
-    <net code="86" name="Net-(Q106-Pad3)">
-      <node ref="Q106" pin="3" pinfunction="B" pintype="input"/>
-      <node ref="R143" pin="1" pintype="passive"/>
-    </net>
-    <net code="87" name="Net-(Q107-Pad2)">
+    <net code="93" name="Net-(Q107-Pad2)">
       <node ref="Q107" pin="2" pinfunction="C" pintype="passive"/>
       <node ref="R145" pin="2" pintype="passive"/>
       <node ref="R148" pin="1" pintype="passive"/>
     </net>
-    <net code="88" name="Net-(Q108-Pad1)">
+    <net code="94" name="Net-(Q108-Pad1)">
       <node ref="Q108" pin="1" pinfunction="B1" pintype="input"/>
       <node ref="Q108" pin="2" pinfunction="C1" pintype="passive"/>
       <node ref="R149" pin="1" pintype="passive"/>
       <node ref="R150" pin="1" pintype="passive"/>
     </net>
-    <net code="89" name="Net-(Q108-Pad4)">
+    <net code="95" name="Net-(Q108-Pad4)">
       <node ref="Q108" pin="4" pinfunction="C2" pintype="passive"/>
       <node ref="R148" pin="2" pintype="passive"/>
     </net>
-    <net code="90" name="Net-(R101-Pad2)">
-      <node ref="R101" pin="2" pintype="passive"/>
-      <node ref="R102" pin="1" pintype="passive"/>
-      <node ref="U101" pin="5" pinfunction="+" pintype="input"/>
-    </net>
-    <net code="91" name="Net-(R106-Pad1)">
-      <node ref="R106" pin="1" pintype="passive"/>
-      <node ref="U102" pin="5" pinfunction="+" pintype="input"/>
-    </net>
-    <net code="92" name="Net-(R109-Pad2)">
+    <net code="96" name="Net-(R109-Pad2)">
       <node ref="R109" pin="2" pintype="passive"/>
       <node ref="RV103" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="93" name="Net-(R114-Pad2)">
+    <net code="97" name="Net-(R114-Pad2)">
       <node ref="R114" pin="2" pintype="passive"/>
       <node ref="RV102" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="94" name="Net-(R115-Pad1)">
+    <net code="98" name="Net-(R115-Pad1)">
       <node ref="R115" pin="1" pintype="passive"/>
       <node ref="RV102" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="95" name="Net-(R120-Pad1)">
-      <node ref="R120" pin="1" pintype="passive"/>
-      <node ref="U102" pin="3" pinfunction="+" pintype="input"/>
-    </net>
-    <net code="96" name="Net-(R130-Pad1)">
-      <node ref="R130" pin="1" pintype="passive"/>
-      <node ref="U101" pin="3" pinfunction="+" pintype="input"/>
-    </net>
-    <net code="97" name="Net-(R138-Pad1)">
+    <net code="99" name="Net-(R138-Pad1)">
       <node ref="R138" pin="1" pintype="passive"/>
       <node ref="R139" pin="1" pintype="passive"/>
       <node ref="R140" pin="1" pintype="passive"/>
     </net>
-    <net code="98" name="Net-(R151-Pad1)">
+    <net code="100" name="Net-(R151-Pad1)">
       <node ref="R151" pin="1" pintype="passive"/>
       <node ref="RV101" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="99" name="Net-(R152-Pad1)">
+    <net code="101" name="Net-(R152-Pad1)">
       <node ref="R152" pin="1" pintype="passive"/>
       <node ref="RV101" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="100" name="Net-(R155-Pad1)">
-      <node ref="R155" pin="1" pintype="passive"/>
-      <node ref="R156" pin="2" pintype="passive"/>
-      <node ref="U103" pin="3" pinfunction="+" pintype="input"/>
+    <net code="102" name="unconnected-(IC105-Pad6)">
+      <node ref="IC105" pin="6" pinfunction="OX2" pintype="input+no_connect"/>
     </net>
-    <net code="101" name="Net-(U104-Pad2)">
-      <node ref="U104" pin="2" pinfunction="CP1" pintype="input"/>
-      <node ref="U105" pin="2" pinfunction="CP1" pintype="output"/>
-    </net>
-    <net code="102" name="unconnected-(RV1-Pad3)">
+    <net code="103" name="unconnected-(RV1-Pad3)">
       <node ref="RV1" pin="3" pinfunction="3" pintype="passive+no_connect"/>
-    </net>
-    <net code="103" name="unconnected-(U105-Pad6)">
-      <node ref="U105" pin="6" pinfunction="OX2" pintype="input+no_connect"/>
     </net>
   </nets>
 </export>

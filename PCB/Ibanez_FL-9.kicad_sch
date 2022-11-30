@@ -6,8 +6,8 @@
 
   (title_block
     (title "Ibanez_FL-9_Flanger_Pedal MP-FL0601")
-    (date "2022-11-26")
-    (rev "v02")
+    (date "2022-11-29")
+    (rev "1.0.0")
     (company "Cedar Grove Studios")
     (comment 1 "MP-FL0601")
   )
@@ -4438,6 +4438,10 @@
   (text "<- REGENERATION SIGNAL" (at 262.89 20.955 0)
     (effects (font (size 1.27 1.27) italic) (justify left bottom))
     (uuid 655a2491-2359-4545-bbdb-70d18bbfc531)
+  )
+  (text "C116 upgraded to FILM\n2022-11-26\n" (at 265.43 29.21 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6e13e8a8-917d-47d6-a620-6d34d444fc79)
   )
   (text "NORMAL/EFFECT" (at 303.53 165.735 0)
     (effects (font (size 1.905 1.905)) (justify left bottom))

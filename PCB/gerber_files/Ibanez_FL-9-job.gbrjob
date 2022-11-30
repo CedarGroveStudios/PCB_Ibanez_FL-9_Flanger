@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0-0)"
     },
-    "CreationDate": "2022-11-27T00:39:49-08:00"
+    "CreationDate": "2022-11-29T15:18:15-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Ibanez_FL-9",
       "GUID": "4962616e-657a-45f4-964c-2d392e6b6963",
-      "Revision": "v02"
+      "Revision": "1.0.0"
     },
     "Size": {
       "X": 60.05,
