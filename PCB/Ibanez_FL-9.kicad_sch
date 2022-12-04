@@ -6,7 +6,7 @@
 
   (title_block
     (title "Ibanez_FL-9_Flanger_Pedal MP-FL0601")
-    (date "2022-11-29")
+    (date "2022-12-04")
     (rev "1.0.0")
     (company "Cedar Grove Studios")
     (comment 1 "MP-FL0601")
@@ -4568,7 +4568,7 @@
     (effects (font (size 1.524 1.524) (thickness 0.254) bold italic) (justify left bottom))
     (uuid d3fa6da6-abec-4c6e-bbed-0a0348a3f1de)
   )
-  (label "CP15" (at 330.835 43.815 0)
+  (label "CP15" (at 330.835 42.545 0)
     (effects (font (size 1.524 1.524) (thickness 0.254) bold italic) (justify left bottom))
     (uuid d9d0f118-355a-485c-b24b-9fdcc0e90461)
   )
@@ -5518,7 +5518,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 196.215 171.45 0) (unit 3)
     (in_bom yes) (on_board yes)
     (uuid 37322642-a9e8-4b7a-994e-382297571ca4)
-    (property "Reference" "U102" (id 0) (at 194.31 170.5415 0)
+    (property "Reference" "IC102" (id 0) (at 194.31 170.5415 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TL022" (id 1) (at 194.31 173.3166 0)
@@ -6627,7 +6627,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 208.915 170.815 0) (unit 3)
     (in_bom yes) (on_board yes)
     (uuid 80bbc5b6-fa99-4be6-8706-175bfe844748)
-    (property "Reference" "U103" (id 0) (at 207.01 169.9065 0)
+    (property "Reference" "IC103" (id 0) (at 207.01 169.9065 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TL022" (id 1) (at 207.01 172.6816 0)
@@ -7524,7 +7524,7 @@
   (symbol (lib_id "Amplifier_Operational:TL072") (at 183.515 172.085 0) (unit 3)
     (in_bom yes) (on_board yes)
     (uuid c0238134-b46d-42a1-9fdb-86790b8a110e)
-    (property "Reference" "U101" (id 0) (at 181.61 171.1765 0)
+    (property "Reference" "IC101" (id 0) (at 181.61 171.1765 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TL022" (id 1) (at 181.61 173.9516 0)
@@ -9004,17 +9004,26 @@
     (path "/f76cbbe5-85eb-46c7-823a-15d6d832a075"
       (reference "IC101") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
+    (path "/c0238134-b46d-42a1-9fdb-86790b8a110e"
+      (reference "IC101") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
     (path "/fc8ffd4f-592d-4600-af07-01b564606849"
       (reference "IC102") (unit 1) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/bfe8d056-0a28-4d98-90fb-99d88dacefd2"
       (reference "IC102") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
+    (path "/37322642-a9e8-4b7a-994e-382297571ca4"
+      (reference "IC102") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
     (path "/156cc437-73f9-4b3d-899d-c1d51a8c376d"
       (reference "IC103") (unit 1) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/e7d51f6e-827f-46b1-9000-d82927f2da13"
       (reference "IC103") (unit 2) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/80bbc5b6-fa99-4be6-8706-175bfe844748"
+      (reference "IC103") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/ed34a539-454e-41b2-957f-a6259baf48fe"
       (reference "IC104") (unit 1) (value "MN3207") (footprint "Package_DIP:DIP-8_W7.62mm")
@@ -9327,15 +9336,6 @@
     )
     (path "/a4be44f7-0b88-4265-add8-e383591a18ce"
       (reference "SW1") (unit 1) (value "NORMAL/EFFECT") (footprint "")
-    )
-    (path "/c0238134-b46d-42a1-9fdb-86790b8a110e"
-      (reference "U101") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/37322642-a9e8-4b7a-994e-382297571ca4"
-      (reference "U102") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/80bbc5b6-fa99-4be6-8706-175bfe844748"
-      (reference "U103") (unit 3) (value "TL022") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
   )
 )
