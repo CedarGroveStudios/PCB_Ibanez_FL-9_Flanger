@@ -19,7 +19,7 @@ The Ibanez FL9 pedal (made in Japan by Maxon) is a hybrid analog/digital delay d
 
 The flanger effect was sounding weak. The width and depth of the flange effect wasn’t as dynamic as when the pedal was new just 35 years ago. Replacing the battery didn’t make any difference. Even after cleaning the potentiometers, it still wasn’t working correctly. We’ll pop the covers and take a look.
 
-Here’s what was found. Patches of the underside of the PCB were corroded. Apparently after decades of use, a few of the aluminum electrolytic capacitors leaked some of their semi-liquid dielectric fluid which quickly attacked the solder joints and copper traces. In one case, the fluid ate away all of the solder for one component, disconnecting from the circuitry. 
+Here’s what was found. Patches of the underside of the PCB were corroded. Apparently after decades of use, a few of the aluminum electrolytic capacitors leaked some of their semi-liquid dielectric fluid which quickly attacked the solder joints and copper traces. In one case, the fluid ate away all of the solder for one component, disconnecting it from the circuitry. 
 
 It’s expected that after decades of use, some electronic components would begin to age. The first to go are usually aluminum electrolytic capacitors. And to be safe, all of the aluminum electrolytic capacitors will be replaced — not just the damaged ones — to prevent future capacitor leakage. Hopefully for at least another 30 years. 
 
