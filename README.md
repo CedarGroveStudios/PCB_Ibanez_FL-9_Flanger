@@ -1,5 +1,9 @@
 ## PCB_Ibanez_FL-9_Flanger
  An as-built schematic, PCB, and service guide to help with the repair of the Ibanez FL-9 Flanger guitar pedal.
+ 
+ [New Service Guide](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/blob/main/docs/new_service_guide/Ibanez_FL9_Service_Guide.pdf)
+ 
+ [KiCAD PCB Design](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/tree/main/PCB)
 
  NOTE: At this time, the reverse-engineered PCB design is only useful for relative component location -- the design is non-functional and cannot be fabricated as-is. However, the process to convert a photograph of the traces into a copper layer was tested during this re-engineering project. Further work needs to be done to process the photograph to eliminate shadow and reflective anomolies before a practical test can be conducted. That's on the to-do list.
 
