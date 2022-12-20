@@ -5,13 +5,13 @@
 
 ![PCB 3D rendered view](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/blob/main/PCB/Ibanez_FL-9_glam_top.png)
 
-A thank you to [Mystic Effects Co](https://mysticeffectsco.com) for a helpful and inspiring FL9 capacitor replacement blog post. Also to Panasonic for continuing to maintain on-line datasheets for the bucket brigade delay and clock driver chip set. Let's not forget how great it is that @DigiKey still stocks fresh through-hole capacitors in their produce aisle.
+A thank you to [Mystic Effects Co](https://mysticeffectsco.com) for a helpful and inspiring FL9 capacitor replacement blog post. Also to Panasonic for continuing to maintain on-line datasheets for the bucket brigade delay and clock driver chip set. Let's not forget how great it is that DigiKey still stocks fresh through-hole capacitors in their produce aisle.
 
 ---
 ### What’s A Flanger?
-Flanging is a time delay effect that originated in recording studios when a track was delayed slightly by touching the outer edge of a tape recorder reel with a finger. Mixed with the source input signal (the “dry” signal), the effect caused a filtering effect that caused different frequency bands to be enhanced or quieted slightly. When the signal delay was varied (swept), the peaks and valleys of the filtering simulated a “whoosh” effect.
+Flanging is a time delay effect that originated in recording studios when a track was delayed slightly by touching the outer edge of a tape recorder reel with a finger. Mixed with the source input signal (the *dry* signal), the effect caused a filtering effect that caused different frequency bands to be enhanced or quieted slightly. When the signal delay was varied (swept), the peaks and valleys of the filtering simulated a “whoosh” effect.
 
-The Ibanez FL9 pedal (made in Japan by Maxon) is a hybrid analog/digital delay design that uses a “bucket brigade” integrated circuit to sample slices of the input signal then slightly delays the output of the slices. The overall time delay as well as sweep depth and width are adjustable. The feedback control helps to enhance the effect by adding a portion of the effect signal back into the input of the delay.
+The Ibanez FL9 pedal (made in Japan by Maxon) is a hybrid analog/digital delay design that uses a *bucket-brigade* integrated circuit to sample slices of the input signal then slightly delays the output of the slices. The overall time delay as well as sweep depth and width are adjustable. The feedback control helps to enhance the effect by adding a portion of the effect signal back into the input of the delay.
 
 ---
 
