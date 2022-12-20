@@ -1,7 +1,7 @@
 ## PCB_Ibanez_FL-9_Flanger
  An as-built schematic, PCB, and service guide to help with the repair of the Ibanez FL-9 Flanger guitar pedal.
  
- [FL9 Flanger Repair Blog (.pdf)](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/blob/main/docs/repair_blog/Ibanez_FL9_Repair_Blog.pdf)
+ [FL9 Flanger Repair Blog (.pdf)](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/blob/main/docs/repair_blog/Ibanez_FL9_Flanger_Repair_Blog.pdf)
 
  [New Service Guide (.pdf)](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/blob/main/docs/new_service_guide/Ibanez_FL9_Service_Guide.pdf)
  
