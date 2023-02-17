@@ -3,7 +3,7 @@
  
  [FL9 Flanger Repair Blog (.pdf)](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/blob/main/docs/repair_blog/Ibanez_FL9_Flanger_Repair_Blog.pdf)
 
- [New Service Guide (Adafruit Learning System)](https://learn.adafruit.com/u/CGrover/ibanez-fl9-service-guide)
+ [New Service Guide (Adafruit Learning System)](https://learn.adafruit.com/u/CGrover/pages/ibanez-fl9-service-guide)
 
  [New Service Guide (.pdf)](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/blob/main/docs/new_service_guide/Ibanez_FL9_Service_Guide.pdf)
  
