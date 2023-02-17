@@ -9,7 +9,7 @@
  
  [KiCAD PCB Design Folder](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/tree/main/PCB)
 
- NOTE: The reverse-engineered PCB design was only used for relative component location -- the design is not functional and cannot be fabricated as-is because it has no copper layer.
+ NOTE: The reverse-engineered PCB design was only used for relative component location -- the design is untested.
 
 ![PCB 3D rendered view](https://github.com/CedarGroveStudios/PCB_Ibanez_FL-9_Flanger/blob/main/PCB/Ibanez_FL-9_glam_top.png)
 
